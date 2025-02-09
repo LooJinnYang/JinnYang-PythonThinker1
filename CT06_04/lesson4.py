@@ -16,4 +16,4 @@
 # age = input ("whats your age?")
 # print(age)
 
-name = input ()
+name = input ("whats your name")
