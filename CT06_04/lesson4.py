@@ -35,7 +35,7 @@ num = int(num) * 2
 num = str(num)
 print ("Double your number is " + num + ".")
 
-age = input ("Whats your age")
+born = input ("Whats your age")
 age = int(age) +1
 age = str(age)
 print ("Next year, you will be " + age + " years old.")
