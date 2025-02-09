@@ -4,4 +4,4 @@ green_plate = 3
 num_of_R = 3
 num_of_B = 5
 num_of_G = 4
-total_price = (num_of_R * red_plate) + (num_of_B * blue_plate) + ()
+total_price = (num_of_R * red_plate) + (num_of_B * blue_plate) + (num_of_green)
