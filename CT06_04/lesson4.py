@@ -7,4 +7,4 @@
 # total_price = (num_of_R * red_plate) + (num_of_B * blue_plate) + (num_of_G * green_plate)
 # print (total_price)
 
-name = input ()
+name = input ("whats your name?")
