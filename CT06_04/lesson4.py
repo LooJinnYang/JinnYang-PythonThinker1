@@ -20,7 +20,7 @@ name = input ("whats your name")
 print ("Hi, " + name + "!")
 
 hobby = input ("whats your hobby")
-print ("I enjoy " + name)
+print ("I enjoy " + )
 
- = input ("whats your name")
+vacation = input ("whats your name")
 print ("Hi, " + name + "!")
