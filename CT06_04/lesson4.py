@@ -1,1 +1,1 @@
-red_
+red_plate = 1
