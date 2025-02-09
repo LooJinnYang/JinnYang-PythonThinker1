@@ -26,7 +26,8 @@
 # print ("I would love to visit " + vacation)
 
 age = input ("Whats your age")
-age = int(age)
+age = int(age) +1
+
 
 
 
