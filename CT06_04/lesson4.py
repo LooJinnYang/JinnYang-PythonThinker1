@@ -8,3 +8,4 @@
 # print (total_price)
 
 name = input ("whats your name?")
+print (name)
