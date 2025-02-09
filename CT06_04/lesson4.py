@@ -38,6 +38,7 @@ print ("Double your number is " + num + ".")
 born = input ("What year were you born in?")
 born = int(born) 
 age2 = 2025 - born
+age2 = str
 print ("Next year, you will be " + age + " years old.")
 
 
