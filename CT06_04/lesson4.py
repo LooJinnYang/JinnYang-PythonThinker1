@@ -14,4 +14,4 @@ fav_colour = input ("whats your favourite colour?")
 print (fav_colour)
 
 age = input ("whats your age?")
-print
+print(age)
