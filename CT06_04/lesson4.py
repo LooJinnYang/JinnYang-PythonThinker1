@@ -7,11 +7,11 @@
 # total_price = (num_of_R * red_plate) + (num_of_B * blue_plate) + (num_of_G * green_plate)
 # print (total_price)
 
-name = input ("whats your name?")
-print (name)
+# name = input ("whats your name?")
+# print (name)
 
-fav_colour = input ("whats your favourite colour?")
-print (fav_colour)
+# fav_colour = input ("whats your favourite colour?")
+# print (fav_colour)
 
-age = input ("whats your age?")
-print(age)
+# age = input ("whats your age?")
+# print(age)
