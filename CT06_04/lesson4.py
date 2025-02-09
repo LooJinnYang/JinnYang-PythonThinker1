@@ -22,5 +22,5 @@ print ("Hi, " + name + "!")
 hobby = input ("whats your hobby")
 print ("I enjoy " + name)
 
-name = input ("whats your name")
+ = input ("whats your name")
 print ("Hi, " + name + "!")
