@@ -30,6 +30,16 @@ age = int(age) +1
 age = str(age)
 print ("Next year, you will be " + age + " years old.")
 
+age = input ("Whats your age")
+age = int(age) +1
+age = str(age)
+print ("Next year, you will be " + age + " years old.")
+
+age = input ("Whats your age")
+age = int(age) +1
+age = str(age)
+print ("Next year, you will be " + age + " years old.")
+
 
 
 
