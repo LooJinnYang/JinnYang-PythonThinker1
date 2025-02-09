@@ -28,7 +28,7 @@
 age = input ("Whats your age")
 age = int(age) +1
 age = str(age)
-Print ()
+Print ("Next year, ")
 
 
 
