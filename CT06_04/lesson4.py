@@ -17,4 +17,4 @@
 # print(age)
 
 name = input ("whats your name")
-print ("Hi, " )
+print ("Hi, " + name + "")
