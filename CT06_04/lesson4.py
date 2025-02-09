@@ -22,5 +22,5 @@ print ("Hi, " + name + "!")
 hobby = input ("whats your hobby")
 print ("I enjoy " + hobby)
 
-vacation = input ("whats your drea")
+vacation = input ("whats your dream vacation destination?")
 print ("I would love to visit " + vacation)
