@@ -10,4 +10,4 @@
 name = input ("whats your name?")
 print (name)
 
-fav
+fav_colour = input 
