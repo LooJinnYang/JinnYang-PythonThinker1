@@ -31,7 +31,7 @@ age = str(age)
 print ("Next year, you will be " + age + " years old.")
 
 num = input ("Choose a random number")
-age = int(age) +1
+num = int(num) +1
 age = str(age)
 print ("Next year, you will be " + age + " years old.")
 
