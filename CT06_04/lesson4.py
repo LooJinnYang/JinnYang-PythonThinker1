@@ -25,7 +25,7 @@
 # vacation = input ("whats your dream vacation destination?")
 # print ("I would love to visit " + vacation)
 
-
+age = input
 
 
 
