@@ -26,12 +26,12 @@
 # print ("I would love to visit " + vacation)
 
 age = input ("Whats your age?")
-age = int(age) +1
+age = int(age) + 1
 age = str(age)
 print ("Next year, you will be " + age + " years old.")
 
 num = input ("Choose a random number")
-num = int(num) +1
+num = int(num) * 2
 num = str(num)
 print ("Next year, you will be " + age + " years old.")
 
