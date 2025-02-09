@@ -27,7 +27,8 @@
 
 age = input ("Whats your age")
 age = int(age) +1
-age = str
+age = str(age)
+Print ()
 
 
 
