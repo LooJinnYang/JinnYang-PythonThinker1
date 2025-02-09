@@ -25,12 +25,12 @@
 # vacation = input ("whats your dream vacation destination?")
 # print ("I would love to visit " + vacation)
 
-age = input ("Whats your age")
+age = input ("Whats your age?")
 age = int(age) +1
 age = str(age)
 print ("Next year, you will be " + age + " years old.")
 
-num = input ("")
+num = input ("Choose a random number")
 age = int(age) +1
 age = str(age)
 print ("Next year, you will be " + age + " years old.")
