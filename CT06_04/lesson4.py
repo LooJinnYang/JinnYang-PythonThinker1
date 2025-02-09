@@ -11,3 +11,4 @@ name = input ("whats your name?")
 print (name)
 
 fav_colour = input ("whats your favourite colour?")
+print ()
