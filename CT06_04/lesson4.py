@@ -16,10 +16,10 @@
 # age = input ("whats your age?")
 # print(age)
 
-name = input ("whats your name")
+name = input ("whats your name?")
 print ("Hi, " + name + "!")
 
-hobby = input ("whats your hobby")
+hobby = input ("whats your hobby?")
 print ("I enjoy " + hobby)
 
 vacation = input ("whats your dream vacation destination?")
