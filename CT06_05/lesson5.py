@@ -59,5 +59,5 @@
 # for number in range (3,0,-1):
 #   print (number)
 
-# for number in range (10,0,-1):
-#   print (str(number))
+for number in range (10,0,-1):
+  print (number)
