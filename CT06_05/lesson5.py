@@ -17,7 +17,7 @@ for cr in range (100):
     print ("i like chicken rice")
 
 # for like_cake in range (100):
-#     print ("i like cake")
+#     print ("i like cake" + "give me more")
 
 # for number in range (60):
 #     print (number)
