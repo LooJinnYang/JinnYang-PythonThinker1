@@ -6,7 +6,7 @@
 # print("happy " + age + "th birthday " + name + " ! " + message)
 
 for num in range (1000):
-    print("")
+    print("I will keep on slinging mud at my friends!")
 
 # input("whats your name")
 # print("")
