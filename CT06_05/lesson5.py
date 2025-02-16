@@ -2,4 +2,4 @@
 
 name = input("whats your name")
 age = input("whats your age")
-message = input("whats your ")
+message = input("whats your special message")
