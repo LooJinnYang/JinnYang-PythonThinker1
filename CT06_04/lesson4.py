@@ -30,16 +30,16 @@
 # age = str(age)
 # print ("Next year, you will be " + age + " years old.")
 
-# num = input ("Choose a random number")
-# num = int(num) * 2
-# num = str(num)
-# print ("Double your number is " + num + ".")
+num = input ("Choose a random number")
+num = int(num) * 2
+num = str(num)
+print ("Double your number is " + num + ".")
 
-# born = input ("What year were you born in?")
-# born = int(born) 
-# age2 = 2025 - born
-# age2 = str(age2)
-# print ("You are " + age2 + " years old")
+born = input ("What year were you born in?")
+born = int(born) 
+age2 = 2025 - born
+age2 = str(age2)
+print ("You are " + age2 + " years old")
 
 
 
