@@ -51,7 +51,7 @@
 
 user_name = "something"
 user_age = 100
-print (user_name + " is" + str(user_age) + "years old.")
+print (user_name + " is " + str(user_age) + " years old.")
 
 
 
