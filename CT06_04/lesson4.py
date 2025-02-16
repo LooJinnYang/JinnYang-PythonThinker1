@@ -49,9 +49,9 @@
 # Last = "jinnyang"
 # print (First + Last)
 
-user_name = "something"
-user_age = 100
-print (user_name + " is " + str(user_age) + " years old.")
+# user_name = "something"
+# user_age = 100
+# print (user_name + " is " + str(user_age) + " years old.")
 
 
 
