@@ -14,4 +14,4 @@
 # print (name + " is the best")
 
 for cr in range (100):
-    print
+    print ("i like chicken rice")
