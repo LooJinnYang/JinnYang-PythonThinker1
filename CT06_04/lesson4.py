@@ -45,8 +45,8 @@
 # message = 10
 # print (message)
 
-First = ""
-
+First = "loo"
+Last = ""
 
 
 
