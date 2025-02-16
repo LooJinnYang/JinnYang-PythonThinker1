@@ -18,7 +18,7 @@
 
 for like_cake in range (10000):
     print ("i like cake")
-    print()" give me more")
+    print ("give me more")
 
 # for number in range (60):
 #     print (number)
