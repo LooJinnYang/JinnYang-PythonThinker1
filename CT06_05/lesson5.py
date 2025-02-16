@@ -5,7 +5,8 @@
 # message = input("whats your special message")
 # print("happy " + age + "th birthday " + name + " ! " + message)
 
-
+for num in range (1000):
+    print
 
 # input("whats your name")
 # print("")
