@@ -24,3 +24,5 @@
 # for number in range (60):
 #     print (number)
 
+for number in range (60):
+     print (number)
