@@ -10,5 +10,5 @@
 
 name = input ("whats your name")
 for letter in name:
-    print ("give me a " + num)
+    print ("give me a " + letter)
 print (name + " is the best")
