@@ -5,4 +5,5 @@
 # message = input("whats your special message")
 # print("happy " + age + "th birthday " + name + " ! " + message)
 
-input
+input("whats your name")
+print()
