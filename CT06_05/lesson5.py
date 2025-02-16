@@ -6,4 +6,4 @@
 # print("happy " + age + "th birthday " + name + " ! " + message)
 
 input("whats your name")
-print()
+print("")
