@@ -54,4 +54,4 @@
 #   print (number)
 
 for number in range (3,0,-1):
-  print ("Ready!" + str(number)
+  print ("Ready!" + str(number))
