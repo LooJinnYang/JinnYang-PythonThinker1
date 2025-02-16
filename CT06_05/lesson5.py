@@ -38,5 +38,5 @@
 # for number in range (8,97,8):
 #   print (number)
 
-for number in range (5,1,-1):
+for number in range (5,0,-1):
   print (number)
