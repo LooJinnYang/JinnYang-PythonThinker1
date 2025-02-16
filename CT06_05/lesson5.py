@@ -13,11 +13,11 @@
 #     print ("give me a " + letter)
 # print (name + " is the best")
 
-for cr in range (100):
-    print ("i like chicken rice")
+# for cr in range (100):
+#     print ("i like chicken rice")
 
-# for like_cake in range (100):
-#     print ("i like cake" + "give me more")
+for like_cake in range (100):
+    print ("i like cake" + "give me more")
 
 # for number in range (60):
 #     print (number)
