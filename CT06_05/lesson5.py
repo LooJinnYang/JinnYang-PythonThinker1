@@ -9,6 +9,6 @@
 #     print("I will keep on slinging mud at my friends!")
 
 name = input ("whats your name")
-for num in name:
+for letter in name:
     print ("give me a " + num)
 print (name + " is the best")
