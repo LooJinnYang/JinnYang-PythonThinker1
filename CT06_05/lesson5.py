@@ -24,5 +24,5 @@
 # for number in range (60):
 #     print (number)
 
-for number in range (60):
+for number in range (6):
      print (number)
