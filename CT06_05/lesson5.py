@@ -53,6 +53,11 @@
 # for number in range (5,0,-1):
 #   print (number)
 
+
+
 print ("Ready!")
+for number in range (3,0,-1):
+  print (str(number))
+
 for number in range (3,0,-1):
   print (str(number))
