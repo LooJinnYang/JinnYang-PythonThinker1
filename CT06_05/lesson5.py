@@ -53,5 +53,5 @@
 # for number in range (5,0,-1):
 #   print (number)
 
-for number in range (5,0,-1):
+for number in range (3,0,-1):
   print (number)
