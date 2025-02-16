@@ -34,3 +34,6 @@
 
 for number in range (2,25,2):
   print (number)
+
+for number in range (2,25,2):
+  print (number)
