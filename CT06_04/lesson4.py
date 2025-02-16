@@ -42,6 +42,8 @@
 # print ("You are " + age2 + " years old")
 
 message = "hello"
+message = 10
+
 
 
 
