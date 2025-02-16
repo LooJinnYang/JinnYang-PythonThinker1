@@ -59,6 +59,6 @@
 # for number in range (3,0,-1):
 #   print (number)
 
-for number in range (100000,0,-1):
+for number in range (10000000,0,-1):
   print (number)
 print ("boo!")
