@@ -47,7 +47,7 @@
 
 First = "loo"
 Last = "jinnyang"
-print ()
+print (First + L)
 
 
 
