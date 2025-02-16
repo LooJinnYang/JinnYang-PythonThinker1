@@ -7,3 +7,7 @@
 
 # for num in range (10000000):
 #     print("I will keep on slinging mud at my friends!")
+
+name = input ("whats your name")
+for num in range (name):
+    print 
