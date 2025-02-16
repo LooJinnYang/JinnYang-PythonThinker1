@@ -45,9 +45,9 @@
 # message = 10
 # print (message)
 
-First = "loo"
-Last = "jinnyang"
-print (First + Last)
+# First = "loo"
+# Last = "jinnyang"
+# print (First + Last)
 
 
 
