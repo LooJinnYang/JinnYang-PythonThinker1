@@ -51,7 +51,7 @@
 
 user_name = "something"
 user_age = 100
-puser_agerint (username + "is" + str())
+print (username + "is" + str())
 
 
 
