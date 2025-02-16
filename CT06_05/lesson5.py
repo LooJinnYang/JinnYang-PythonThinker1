@@ -10,4 +10,4 @@
 
 name = input ("whats your name")
 for num in range (name):
-    print ("give me a")
+    print ("give me a " + num)
