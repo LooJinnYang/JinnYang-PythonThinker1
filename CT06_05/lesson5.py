@@ -11,4 +11,4 @@
 name = input ("whats your name")
 for num in name:
     print ("give me a " + num)
-print
+print (name + " is the best")
