@@ -1,4 +1,4 @@
 # print("Hello from lesson 5")
 
-name = input("whats your age")
+name = input("whats your name")
 age = input("whats your age")
