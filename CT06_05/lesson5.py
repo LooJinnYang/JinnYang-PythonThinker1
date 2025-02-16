@@ -15,3 +15,8 @@
 
 for cr in range (100):
     print ("i like chicken rice")
+
+for cr in range (100):
+    print ("i like chicken rice")
+
+    
