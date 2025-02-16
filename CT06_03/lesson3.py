@@ -57,10 +57,10 @@
 # print (answer)
 
 
-variable1 = 3
-variable2 = 4
-variable3 = 5
-variable4 = 10
-variable5 = 2
-answer = (variable1 + variable2) * variable3 - (variable4 / variable5)
-print (answer)
+# variable1 = 3
+# variable2 = 4
+# variable3 = 5
+# variable4 = 10
+# variable5 = 2
+# answer = (variable1 + variable2) * variable3 - (variable4 / variable5)
+# print (answer)
