@@ -21,4 +21,4 @@
 # for i in range (10, 0, -1):
 #     print (i)
 
-i = int(input())
+i = int(input("Choose a random word:"))
