@@ -18,7 +18,7 @@ i = 5
 print ("Hello, World!")
 
 # **Task 2a**:
-input("what is your age")
+age = input("what is your age")
 print(age)
 
 # **Task 2b**:
