@@ -32,4 +32,4 @@
 # **Task 2d**:
 # print("Hello, World!")
 
-input (int())
+input (int("Choose a random number"))
