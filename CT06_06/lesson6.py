@@ -46,7 +46,7 @@ number = 10
 print(number - 5)
 
 # **Task 3c**:
-print("Repeat" * "3")
+i = str()
 
 # **Task 3d**:
 year = 2023
