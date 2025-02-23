@@ -22,3 +22,4 @@
 #     print (i)
 
 i = int(input("Choose a random word:"))
+n = int
