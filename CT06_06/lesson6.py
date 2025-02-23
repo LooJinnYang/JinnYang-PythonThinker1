@@ -18,6 +18,7 @@ i = 5
 print ("Hello, World!")
 
 # **Task 2a**:
+input
 print(age)
 
 # **Task 2b**:
