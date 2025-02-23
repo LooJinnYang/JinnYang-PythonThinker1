@@ -63,7 +63,7 @@
 #   print (number)
 # print ("boo!")
 
-start = input("What is your starting number?")
+start = int(input("What is your starting number?"))
 stop = input("What is your ending number?")
 
 if start < stop:
