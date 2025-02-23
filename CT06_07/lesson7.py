@@ -21,7 +21,7 @@
 # for i in range (10, 0, -1):
 #     print (i)
 
-i = str(input("Choose a random word:"))
+i = input("Choose a random word:")
 n = input("Choose a random number:")
 for i in range (int(n),0,-1):
     print (i)
