@@ -73,6 +73,6 @@
 #     for time in range (start,stop-1,-1):
 #         print (time)
 
-num = int(0)
-for i in range (1,11,num+i):
-    print (num)
+# num = int(0)
+# for i in range (1,11,num+i):
+#     print (num)
