@@ -63,4 +63,4 @@
 #   print (number)
 # print ("boo!")
 
-start
+start = input
