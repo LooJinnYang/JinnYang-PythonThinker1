@@ -59,6 +59,6 @@ x = 10
 y = x / 2
 
 # **Task 3f**:
-end = "5"
+end = 5
 for i in range(end):
     print(i)
