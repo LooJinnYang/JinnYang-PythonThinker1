@@ -1,8 +1,8 @@
 # print("Hello from lesson 6")
 
 # **Task 1a**:
-for i in range(3):
-    print("Hello, World!")
+# for i in range(3):
+#     print("Hello, World!")
 
 # **Task 1b**:
 for i in range(5):
@@ -18,8 +18,8 @@ i = 5
 print ("Hello, World!")
 
 # **Task 2a**:
-age = input("what is your age")
-print(age)
+# age = input("what is your age")
+# print(age)
 
 # **Task 2b**:
 # name = "Alice"
