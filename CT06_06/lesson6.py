@@ -57,7 +57,7 @@
 # **Task 3e**:
 # x = 10
 # y = x / 2
-print y
+# print y
 
 # **Task 3f**:
 # end = 5
