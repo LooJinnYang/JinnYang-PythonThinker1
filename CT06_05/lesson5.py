@@ -63,4 +63,4 @@
 #   print (number)
 # print ("boo!")
 
-start = input(What is you)
+start = input("What is your starting number?")
