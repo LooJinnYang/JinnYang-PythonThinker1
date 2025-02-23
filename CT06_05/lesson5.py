@@ -65,5 +65,5 @@
 
 start = input("What is your starting number?")
 stop = input("What is your ending number?")
-for num in range (start,stop,):
-    print
+for time in range (start,stop,):
+    print 
