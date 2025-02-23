@@ -33,5 +33,5 @@
 # print("Hello, World!")
 
 num = input ("Choose a random number")
-num = int()
+num = int(num)
 print (num * num * num)
