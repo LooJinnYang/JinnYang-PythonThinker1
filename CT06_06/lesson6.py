@@ -32,4 +32,5 @@
 # **Task 2d**:
 # print("Hello, World!")
 
-input (int("Choose a random number"))
+numinput (int("Choose a random number"))
+print
