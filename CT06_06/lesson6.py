@@ -47,6 +47,8 @@ print(number - 5)
 
 # **Task 3c**:
 i = str("repeat")
+for i in range (3):
+    
 
 # **Task 3d**:
 year = 2023
