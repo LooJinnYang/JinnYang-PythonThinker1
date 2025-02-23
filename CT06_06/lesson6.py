@@ -38,17 +38,17 @@
 #     print (num * num * num)
 
 # **Task 3a**:
-age = int(25)
-print(age + 1)
+# age = int(25)
+# print(age + 1)
 
 # **Task 3b**:
-number = 10
-print(number - 5)
+# number = 10
+# print(number - 5)
 
 # **Task 3c**:
-i = str("repeat")
-for i in range (3):
-    print ("repeat")
+# i = str("repeat")
+# for i in range (3):
+#     print ("repeat")
 
 # **Task 3d**:
 # year = 2023
