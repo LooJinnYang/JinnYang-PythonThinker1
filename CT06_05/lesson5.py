@@ -71,4 +71,4 @@ if start < stop:
         print (int(time))
 else:
     for time in range (start,stop-1,):
-        print (time)
+        print (int(time))
