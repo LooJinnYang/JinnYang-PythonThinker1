@@ -30,4 +30,4 @@ x = 5
 print(x)
 
 # **Task 2d**:
-print("Hello, World!")
+# print("Hello, World!")
