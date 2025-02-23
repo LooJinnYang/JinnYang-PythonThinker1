@@ -34,4 +34,5 @@
 
 num = input ("Choose a random number")
 num = int(num)
-print (num * num * num)
+for i in range(num,1,-1):
+    print (num * num * num)
