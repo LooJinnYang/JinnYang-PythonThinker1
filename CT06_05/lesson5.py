@@ -67,8 +67,8 @@ start = int(input("What is your starting number?"))
 stop = int(input("What is your ending number?"))
 
 if start < stop:
-    for time in range (start,stop+1,):
+    for time in range (start,stop+1,1):
         print (time)
 else:
-    for time in range (start,stop-1,):
+    for time in range (start,stop-1,-1):
         print (time)
