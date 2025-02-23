@@ -43,7 +43,7 @@ print(age + 1)
 
 # **Task 3b**:
 number = 10
-print(number - "5")
+print(number - 5)
 
 # **Task 3c**:
 print("Repeat" * "3")
