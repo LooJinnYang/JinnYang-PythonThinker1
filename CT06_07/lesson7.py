@@ -24,4 +24,4 @@
 i = input("Choose a random word:")
 n = int(input("Choose a random number:"))
 for i in range (3):
-    print (i)
+    print ()
