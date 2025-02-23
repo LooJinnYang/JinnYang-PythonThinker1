@@ -22,12 +22,12 @@ age = input("what is your age")
 print(age)
 
 # **Task 2b**:
-name = "Alice"
-print(name)
+# name = "Alice"
+# print(name)
 
 # **Task 2c**:
-x = 5
-print(x)
+# x = 5
+# print(x)
 
 # **Task 2d**:
 # print("Hello, World!")
