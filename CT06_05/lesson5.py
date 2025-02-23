@@ -63,7 +63,7 @@
 #   print (number)
 # print ("boo!")
 
-start = input("What is your starting number?")
-stop = intinput("What is your ending number?")
+start = int(input("What is your starting number?"))
+stop = int(input("What is your ending number?"))
 for time in range (start,stop,):
     print (time)
