@@ -32,10 +32,10 @@
 # **Task 2d**:
 # print("Hello, World!")
 
-# num = input ("Choose a random number")
-# num = int(num)
-# for i in range(num,1,-1):
-#     print (num * num * num)
+num = input ("Choose a random number")
+num = int(num)
+for i in range(num,1,-1):
+    print (num * num * num)
 
 # **Task 3a**:
 # age = int(25)
