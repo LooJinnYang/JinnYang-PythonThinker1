@@ -74,5 +74,5 @@
 #         print (time)
 
 num = int(0)
-for i in range (1,11,1):
+for num in range (1,11,1):
     print (num)
