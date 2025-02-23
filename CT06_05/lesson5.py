@@ -64,7 +64,7 @@
 # print ("boo!")
 
 start = int(input("What is your starting number?"))
-stop = input("What is your ending number?")
+stop = int(input("What is your ending number?"))
 
 if start < stop:
     for time in range (int(start),int(stop)+1,):
