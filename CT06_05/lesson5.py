@@ -64,4 +64,4 @@
 # print ("boo!")
 
 start = input("What is your starting number?")
-start = input("What is your starting number?")
+stop = input("What is your ending number?")
