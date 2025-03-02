@@ -39,12 +39,12 @@
 # total = int(num1) + int(num2) + int(num3) + int(num4) + int(num5)
 # print("Sum of the 5 numbers is " + str(total))
 
-sum = 0
-for n in range(1,6,1):
-    int(input("What is number #" + str(n) + "?"))
-    sum = sum + n
-print("sum of the 5 numbers is " + str(sum))
+# sum = 0
+# for n in range(1,6,1):
+#     int(input("What is number #" + str(n) + "?"))
+#     sum = sum + n
+# print("sum of the 5 numbers is " + str(sum))
 
-# timesnum = int(input("What is your selected number for the timestable?"))
-# for n in range (1,13,1):
-#     print(timesnum * n)
+timesnum = int(input("What is your selected number for the timestable?"))
+for n in range (1,13,1):
+    print(timesnum * n)
