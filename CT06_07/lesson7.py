@@ -42,7 +42,6 @@
 # sum = 0
 # for n in range(1,6,1):
 #     sum = sum + int(input("What is number #" + str(n) + "?"))
-#     sum = sum + n
 # print("sum of the 5 numbers is " + str(sum))
 
 timesnum = int(input("What is your selected number for the timestable?"))
