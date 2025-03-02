@@ -48,4 +48,4 @@
 # for n in range (1,13):
 #     print(str(timesnum ) + " x " + str(n) + " = " + str(timesnum * n))
 
-num = int
+num = int(input())
