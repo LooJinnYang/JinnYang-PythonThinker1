@@ -32,4 +32,7 @@
 #     print ("Nice to meet you, " + i)
 
 num1 = input("Choose a random number: ")
-
+num1 = input("Choose a random number: ")
+num1 = input("Choose a random number: ")
+num1 = input("Choose a random number: ")
+num1 = input("Choose a random number: ")
