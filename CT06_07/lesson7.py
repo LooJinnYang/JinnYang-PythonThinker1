@@ -37,4 +37,4 @@ num3 = input("Choose a random number: ")
 num4 = input("Choose a random number: ")
 num5 = input("Choose a random number: ")
 total = int(num1) + int(num2) + int(num3) + int(num4) + int(num5)
-
+print("Sum of the 5 numbers is " + total)
