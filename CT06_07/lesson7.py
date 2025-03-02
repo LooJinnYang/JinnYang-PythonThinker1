@@ -40,4 +40,4 @@
 # print("Sum of the 5 numbers is " + str(total))
 
 timesnum = input("What is your selected number for the timestable?")
-print()
+print(timesnum)
