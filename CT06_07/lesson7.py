@@ -42,8 +42,8 @@
 sum = 0
 for n in range(1,6,1):
     input("What is number #" + n + "?")
-    sum = sum 
-print
+    sum = sum + n
+print()
 
 timesnum = int(input("What is your selected number for the timestable?"))
 for n in range (1,13,1):
