@@ -36,3 +36,4 @@ num2 = input("Choose a random number: ")
 num3 = input("Choose a random number: ")
 num4 = input("Choose a random number: ")
 num5 = input("Choose a random number: ")
+total = int
