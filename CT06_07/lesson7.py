@@ -47,4 +47,4 @@
 
 timesnum = int(input("What is your selected number for the timestable?"))
 for n in range (1,13,1):
-    print(timesnum * n)
+    print(n + "x" + timesnum * n)
