@@ -48,6 +48,6 @@
 # for n in range (1,13):
 #     print(str(timesnum ) + " x " + str(n) + " = " + str(timesnum * n))
 
-num = input("Choose a random number: ")
+num = int(input("Choose a random number: "))
 for n in range(1,num,1):
     print("n")
