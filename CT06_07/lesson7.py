@@ -50,4 +50,4 @@
 
 num = int(input("Choose a random number: "))
 for n in range(1,num,1):
-    print("n")
+    print(num)
