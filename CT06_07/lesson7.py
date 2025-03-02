@@ -29,5 +29,5 @@ for word in range (n):
 i = input("What is your name: ")
 n = int(input("Choose a random number: "))
 for word in range (n):
-    print (i)
+    print ("Nice to meet you, " + i)
 
