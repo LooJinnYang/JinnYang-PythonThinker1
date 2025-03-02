@@ -40,6 +40,5 @@
 # print("Sum of the 5 numbers is " + str(total))
 
 timesnum = int(input("What is your selected number for the timestable?"))
-num = timesnum in range(1,13,1)
 for n in range (1,13,1):
     print(timesnum * n)
