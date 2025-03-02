@@ -41,7 +41,7 @@
 
 sum = 0
 for n in range(1,6,1):
-    int(input("What is number #" + n + "?"))
+    int(input("What is number #" + str(n) + "?"))
     sum = sum + n
 print("sum of the 5 numbers is " + str(sum))
 
