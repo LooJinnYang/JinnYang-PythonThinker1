@@ -26,7 +26,7 @@ n = int(input("Choose a random number:"))
 for word in range (n):
     print (i)
 
-i = input("Choose a random word:")
+i = input("What ")
 n = int(input("Choose a random number:"))
 for word in range (n):
     print (i)
