@@ -49,5 +49,5 @@
 #     print(str(timesnum ) + " x " + str(n) + " = " + str(timesnum * n))
 
 num = int(input("Choose a random number: "))
-for n in range(1,num + 1,):
+for n in range(1,num + 1, num in range):
     print(n * num)
