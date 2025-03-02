@@ -31,5 +31,5 @@
 # for word in range (n):
 #     print ("Nice to meet you, " + i)
 
-num1 = input("")
+num1 = input("Choose a random number: ")
 
