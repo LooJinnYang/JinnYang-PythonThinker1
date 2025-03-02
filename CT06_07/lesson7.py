@@ -52,3 +52,6 @@
 # for n in range(1,num + 1,):
 #     print(str(n)*n)
 
+sum = 0
+for n in range (1,6,1):
+    sum = sum 
