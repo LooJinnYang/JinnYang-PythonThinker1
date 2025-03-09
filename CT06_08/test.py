@@ -8,3 +8,5 @@ start=int(input("What is your selected start number? "))
 stop=int(input("What is your selected stop number? "))
 increment=int(input("What is your selected increment number? "))
 
+for i in range(start, stop + 1, increment):
+    print()
