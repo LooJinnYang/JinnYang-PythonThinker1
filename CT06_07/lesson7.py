@@ -54,3 +54,4 @@
 
 for i in range(1,5):
     int(input("insert the score here: "))
+print
