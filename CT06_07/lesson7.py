@@ -52,3 +52,5 @@ num = int(input("Choose a random number: "))
 for n in range(1,num + 1):
     print(str(n)*n)
 
+for i in range(1,5):
+    input
