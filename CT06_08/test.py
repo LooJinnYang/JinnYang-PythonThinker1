@@ -3,4 +3,4 @@
 # #print out the name with additional string
 # print("Nice to meet you, " + name)
 
-start=input
+start=int(input())
