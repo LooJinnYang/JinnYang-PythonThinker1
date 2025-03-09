@@ -5,5 +5,5 @@
 
 #asking the user for inputs for the range function
 start=int(input("What is your selected start number? "))
-stop=int(input("What is your selected start number? "))
+stop=int(input("What is your selected stop number? "))
 increment=int(input("What is your selected increment number? "))
