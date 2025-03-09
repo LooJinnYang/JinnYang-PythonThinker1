@@ -55,3 +55,4 @@
 sum=0
 for i in range(1,5+1):
     sum=sum + int(input("insert the score here: "))
+print("sum of the 5 numbers is " + str(sum))
