@@ -53,4 +53,4 @@
 #     print(str(n)*n)
 
 for i in range(1,5):
-    int(input("insert the score here: "))
+    sum=sum int(input("insert the score here: "))
