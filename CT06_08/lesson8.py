@@ -36,5 +36,4 @@
 # print (variable1 == variable2)
 
 import random
-for i in range(2):
-    print(random.randint(1,50))
+num1 = random.randint
