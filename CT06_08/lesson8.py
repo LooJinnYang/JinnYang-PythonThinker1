@@ -12,3 +12,5 @@ for i in range(num,0,-1):
     print(i)
     time.sleep(1)
 print("Happy New Year")
+
+import random
