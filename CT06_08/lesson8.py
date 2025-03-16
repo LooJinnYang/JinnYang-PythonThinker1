@@ -42,4 +42,4 @@
 # print(answer == (int(num1)+int(num2)))
 
 import random
-guess = input("")
+guess = input("guess a number from 1 to 10: ")
