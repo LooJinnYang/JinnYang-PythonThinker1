@@ -31,10 +31,10 @@
 # variable2 = True
 # print (variable1 == variable2)
 
-variable1 = True
-variable2 = False
-print (variable1 == variable2)
+# variable1 = True
+# variable2 = False
+# print (variable1 == variable2)
 
 import random
-for i in range(20):
+for i in range(2):
     print(random.randint(0,9999))
