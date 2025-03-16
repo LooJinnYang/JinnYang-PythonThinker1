@@ -44,4 +44,5 @@
 import random
 guess = input("guess a number from 1 to 10: ")
 num1 = random.randint(1,10)
-print()
+print(guess == num1)
+printt
