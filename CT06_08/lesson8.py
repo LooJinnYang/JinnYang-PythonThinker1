@@ -41,3 +41,5 @@
 # answer = int(input("What is " + str(num1) + " + " + str(num2) + " ? "))
 # print(answer == (int(num1)+int(num2)))
 
+import random
+guess = input("")
