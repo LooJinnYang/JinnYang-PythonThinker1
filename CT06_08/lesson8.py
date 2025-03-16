@@ -30,3 +30,7 @@
 variable1 = True
 variable2 = True
 print (variable1 == variable2)
+
+variable1 = True
+variable2 = 
+print (variable1 == variable2)
