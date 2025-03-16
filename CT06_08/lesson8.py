@@ -15,5 +15,5 @@
 
 import random
 for i in range(1,7):
-    random.randint(1,7)
+    random.randint(1,6)
     print(i)
