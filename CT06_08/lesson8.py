@@ -17,5 +17,5 @@
 # print(random.randint(1,6))
 
 import random
-for i in range(1,20+1,1):
+for i in range(20):
     print(random.randint(0,9999))
