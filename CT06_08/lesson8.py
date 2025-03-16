@@ -16,9 +16,9 @@
 # import random
 # print(random.randint(1,6))
 
-import random
-for i in range(20):
-    print(random.randint(0,9999))
+# import random
+# for i in range(20):
+#     print(random.randint(0,9999))
 
 import random
 for i in range(3):
