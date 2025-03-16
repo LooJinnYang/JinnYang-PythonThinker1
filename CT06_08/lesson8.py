@@ -48,8 +48,7 @@
 # print("The actual number is " + str(num1))
 
 import random
-num1 = random.randint(1,10)
-num2 = random.randint(1,10)
 num = int(input("How many questions ?"))
 for i in range(num):
+    
     print
