@@ -37,4 +37,4 @@
 
 import random
 for i in range(2):
-    print(random.randint(0,9999))
+    print(random.randint(1,50))
