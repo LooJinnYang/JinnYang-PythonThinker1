@@ -41,8 +41,9 @@
 # answer = int(input("What is " + str(num1) + " + " + str(num2) + " ? "))
 # print(answer == (int(num1)+int(num2)))
 
-import random
-guess = int(input("guess a number from 1 to 10: "))
-num1 = random.randint(1,10)
-print(guess == num1)
-print("The actual number is " + str(num1))
+# import random
+# guess = int(input("guess a number from 1 to 10: "))
+# num1 = random.randint(1,10)
+# print(guess == num1)
+# print("The actual number is " + str(num1))
+
