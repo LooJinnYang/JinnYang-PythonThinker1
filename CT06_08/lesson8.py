@@ -27,4 +27,5 @@
 # x = True
 # print (x)
 
-variable1 = true
+variable1 = True
+
