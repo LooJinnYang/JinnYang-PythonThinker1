@@ -34,3 +34,8 @@
 variable1 = True
 variable2 = False
 print (variable1 == variable2)
+
+
+# import random
+# for i in range(20):
+#     print(random.randint(0,9999))
