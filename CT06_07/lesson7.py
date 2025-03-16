@@ -53,6 +53,7 @@
 #     print(str(n)*n)
 
 sum=0
+num = 5
 for i in range(1,num+1):
     sum=sum + int(input("insert the score of student #" + str(i) + " here: "))
 print("sum of the " + str(num) + " numbers is " + str(sum))
