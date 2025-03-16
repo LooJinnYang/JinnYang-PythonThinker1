@@ -52,4 +52,5 @@ num = int(input("How many questions ?"))
 for i in range(num):
     num1 = random.randint(1,10)
     num2 = random.randint(1,10)
-    print("What is " + str(num1) + "x" + str(num2) + )
+    print("What is " + str(num1) + "x" + str(num2) + " ?")
+    
