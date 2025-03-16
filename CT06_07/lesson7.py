@@ -52,8 +52,10 @@
 # for n in range(1,num + 1):
 #     print(str(n)*n)
 
+
 sum=0
-for i in range(1,5+1):
+num = int(input("How many total students are there? "))
+for i in range(1,num+1):
     sum=sum + int(input("insert the score here: "))
-print("sum of the 5 numbers is " + str(sum))
-print(str(int(sum)/5)+ " is the average score.")
+print("sum of the" + str(num) + "numbers is " + str(sum))
+print(str(int(sum)/int(num))+ " is the average score.")
