@@ -8,7 +8,7 @@
 
 import time
 num = int(input("How many seconds? "))
-for i in range(10,0,-1):
+for i in range(num,0,-1):
     print(i)
     time.sleep(1)
 print("Happy New Year")
