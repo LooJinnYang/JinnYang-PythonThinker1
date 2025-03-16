@@ -28,4 +28,4 @@
 # print (x)
 
 variable1 = True
-
+variable2 = True
