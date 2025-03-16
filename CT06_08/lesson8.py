@@ -24,5 +24,5 @@
 # for i in range(3):
 #     print(random.randint(0,9999))
 
-x = True
-print ()
+# x = True
+# print (x)
