@@ -53,4 +53,4 @@ for i in range(num):
     num1 = random.randint(1,10)
     num2 = random.randint(1,10)
     x = input("What is " + str(num1) + " x " + str(num2) + "? ")
-    print(x == (num1*num2))
+    print(int(x) == (num1*num2))
