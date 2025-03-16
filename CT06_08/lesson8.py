@@ -16,4 +16,4 @@
 import random
 for i in range(1,7):
     random(1,7)
-    print()
+    print(i)
