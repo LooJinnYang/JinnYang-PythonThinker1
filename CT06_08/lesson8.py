@@ -13,7 +13,7 @@
 #     time.sleep(1)
 # print("Happy New Year")
 
-import random
-print(random.randint(1,6))
+# import random
+# print(random.randint(1,6))
 
-import
+import random
