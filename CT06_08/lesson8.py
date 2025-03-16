@@ -18,4 +18,4 @@
 
 import random
 for i in range(1,20+1,1):
-    print(random.randint(0))
+    print(random.randint(0,9999))
