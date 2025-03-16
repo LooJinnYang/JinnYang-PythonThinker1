@@ -29,4 +29,4 @@
 
 variable1 = True
 variable2 = True
-print 
+print (variable1 == variable2)
