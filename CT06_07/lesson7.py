@@ -56,6 +56,6 @@
 sum=0
 num = int(input("How many total students are there? "))
 for i in range(1,num+1):
-    sum=sum + int(input("insert the score here: "))
+    sum=sum + int(input("insert the score of student "))
 print("sum of the " + str(num) + " numbers is " + str(sum))
 print(str(int(sum)/int(num))+ " is the average score.")
