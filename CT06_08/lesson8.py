@@ -66,4 +66,4 @@ num11 = int(num1) % 2 == 0
 num22 = int(num2) % 2 == 0
 num33 = int(num3) % 2 == 0
 all_even_odd = num11 == num22 == num33
-print
+print(all_even_odd)
