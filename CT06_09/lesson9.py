@@ -13,9 +13,11 @@
 # all_even_odd = num11 == num22 == num33
 # print(all_even_odd)
 
-# # days = int(input("How many days have you borrowed this book? "))
-# # if days>25:
-# #     print("Remember to return your book!")
+days = int(input("How many days have you borrowed this book? "))
+if days>25:
+    print("Remember to return your book!")
+else:
+    print
 
 # import random
 # num = random.randint(1,10)
