@@ -65,4 +65,4 @@ print("1st number: " + str(num1))
 print("2nd number: " + str(num2))
 print("3rd number: " + str(num3))
 
-int(num1)
+num1int(num1)
