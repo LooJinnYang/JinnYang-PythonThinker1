@@ -28,14 +28,14 @@
 # else:
 #     print("Nope")
 
-num_apples = int(input("How many apples do you want to buy? "))
-if num_apples > 10:
-    print ("You will get a 10% discount for buying that many apples!")
-    price = num_apples * 0.90
-    print("the price of the " + str(num_apples) + " apples = $" + str(price))
-else:
-    price = num_apples * 1
-    print("the price of the " + str(num_apples) + " apples = $" + str(price))
+# num_apples = int(input("How many apples do you want to buy? "))
+# if num_apples > 10:
+#     print ("You will get a 10% discount for buying that many apples!")
+#     price = num_apples * 0.90
+#     print("the price of the " + str(num_apples) + " apples = $" + str(price))
+# else:
+#     price = num_apples * 1
+#     print("the price of the " + str(num_apples) + " apples = $" + str(price))
 
 num_apples = int(input("How many apples do you want to buy? "))
 if num_apples > 10:
