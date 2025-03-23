@@ -54,5 +54,5 @@ else:
 total_price = float(price) + float(price2)
 total_price = float(f"{total_price:.1f}")
 
-print(f)
+print(f"hi {total_price}")
 print(total_price)
