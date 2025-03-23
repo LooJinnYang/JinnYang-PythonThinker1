@@ -66,3 +66,5 @@ print("2nd number: " + str(num2))
 print("3rd number: " + str(num3))
 
 num11 = int(num1) % 2 == 0
+num22 = int(num1) % 2 == 0
+num33 = int(num1) % 2 == 0
