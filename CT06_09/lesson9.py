@@ -52,5 +52,5 @@ else:
     price2 = num_oranges * 0.90
     print("the price of the " + str(num_oranges) + " oranges = $" + str(price2))
 total_price = float(price) + float(price2)
-rounded_number = float(f"{number:.1f}")
+rounded_number = float(f"{total_price:.1f}")
 print(rounded_number)
