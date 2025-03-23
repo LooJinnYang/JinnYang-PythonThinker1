@@ -29,3 +29,5 @@
 #     print("Nope")
 
 num_apples = int(input("How many apples o you want to buy? "))
+if num_apples > 10:
+    print ("You will get a 10% discount for buying that many apples!")
