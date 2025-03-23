@@ -18,4 +18,4 @@ if days>25:
     print("Remember to return your book!")
 
 import random
-num = random.randint
+num = random.randint(1,10)
