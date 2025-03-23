@@ -13,3 +13,4 @@ num33 = int(num3) % 2 == 0
 all_even_odd = num11 == num22 == num33
 print(all_even_odd)
 
+days = int(input(""))
