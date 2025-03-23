@@ -28,4 +28,4 @@
 # else:
 #     print("Nope")
 
-num_apples = int(input("Ho "))
+num_apples = int(input("How many apples o you want to buy? "))
