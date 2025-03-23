@@ -53,4 +53,4 @@ if num_oranges > 5:
 else:
     price2 = num_oranges * 0.90
     print("the price of the " + str(num_oranges) + " oranges = $" + str(price2))
-total_price = int(price)
+total_price = int(price) + int(price2)
