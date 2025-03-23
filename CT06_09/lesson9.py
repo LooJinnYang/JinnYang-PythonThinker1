@@ -22,3 +22,5 @@ num = random.randint(1,10)
 guess = int(input("guess a number from 1 to 10: "))
 if num == guess:
     print("Thats the magic number!")
+else:
+    print
