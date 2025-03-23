@@ -18,7 +18,7 @@ if days>25:
     print("Remember to return your book!")
 else:
     num = 25 - days
-    print("remember to return in ")
+    print("remember to return in " + str(num))
 
 # import random
 # num = random.randint(1,10)
