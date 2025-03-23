@@ -47,7 +47,6 @@ else:
     price = num_apples * 0.60
     print("the price of the " + str(num_apples) + " apples = $" + str(price))
 if num_oranges > 5:
-    print ("You will get a 10% discount for buying that many oranges!")
     price2 = num_oranges * 0.81
     print("the price of the " + str(num_oranges) + " oranges = $" + str(price2))
 else:
