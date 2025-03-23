@@ -60,11 +60,9 @@ import random
 num1 = random.randint(1,6)
 num2 = random.randint(1,6)
 num3 = random.randint(1,6)
-
 print("1st number: " + str(num1))
 print("2nd number: " + str(num2))
 print("3rd number: " + str(num3))
-
 num11 = int(num1) % 2 == 0
-num22 = int(num1) % 2 == 0
-num33 = int(num1) % 2 == 0
+num22 = int(num2) % 2 == 0
+num33 = int(num3) % 2 == 0
