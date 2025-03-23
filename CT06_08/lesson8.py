@@ -65,4 +65,4 @@ print("3rd number: " + str(num3))
 num11 = int(num1) % 2 == 0
 num22 = int(num2) % 2 == 0
 num33 = int(num3) % 2 == 0
-all_even_odd = num11
+all_even_odd = num11 == num22 == 
