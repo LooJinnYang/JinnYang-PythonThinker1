@@ -40,7 +40,6 @@
 num_apples = int(input("How many apples do you want to buy? "))
 num_oranges = int(input("How many oranges do you want to buy? "))
 if num_apples > 5:
-    print ("You will get a 10% discount for buying that many apples!")
     price = num_apples * 0.54
     print("the price of the " + str(num_apples) + " apples = $" + str(price))
 else:
