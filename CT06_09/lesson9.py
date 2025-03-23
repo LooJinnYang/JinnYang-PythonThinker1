@@ -19,4 +19,4 @@ if days>25:
 
 import random
 num = random.randint(1,10)
-guess = int(input())
+guess = int(input("guess a number from 1 to 10: "))
