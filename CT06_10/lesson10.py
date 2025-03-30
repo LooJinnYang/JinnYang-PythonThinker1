@@ -29,11 +29,12 @@
 #     else:
 #         print("Adult")
 
-temp = int(input("What is the temperature "))
-if temp < 20:
-    print("Read")
-else:
-    if temp < 31:
-        print("Cycle")
-    else:
-        print("Swim")
+# temp = int(input("What is the temperature "))
+# if temp < 20:
+#     print("Read")
+# else:
+#     if temp < 31:
+#         print("Cycle")
+#     else:
+#         print("Swim")
+
