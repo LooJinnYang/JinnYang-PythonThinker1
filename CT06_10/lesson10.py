@@ -14,6 +14,5 @@
 # else:
 #     print("Oops, better luck next time!")
 
-import random
-num11 = int(num1) % 2 == 0
-print(all_even_odd)
+num1 = int(input("choose a number "))
+if int(num1) % 2 == 0:
