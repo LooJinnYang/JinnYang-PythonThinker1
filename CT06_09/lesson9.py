@@ -55,3 +55,4 @@
 # total_price = float(f"{total_price:.1f}")
 # print(total_price)
 
+positive_days = 0
