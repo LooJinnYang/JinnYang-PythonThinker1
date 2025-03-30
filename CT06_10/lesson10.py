@@ -31,7 +31,7 @@
 
 temp = int(input("What is the temperature "))
 if temp < 20:
-    print("Child")
+    print("Read")
 else:
     if temp < 31:
         print("Teen")
