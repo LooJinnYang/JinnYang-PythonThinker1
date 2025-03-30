@@ -15,7 +15,7 @@
 #     print("Oops, better luck next time!")
 
 num1 = int(input("choose a number "))
-if int(num1) % 2 == 0: #dont need convert here if u already converted above
+if num1 % 2 == 0: #dont need convert here if u already converted above
     print("its even")
 else:
-    print("odd")
+    print("its odd")
