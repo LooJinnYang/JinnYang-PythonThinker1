@@ -38,4 +38,4 @@
 #     else:
 #         print("Swim")
 
-score
+score = 
