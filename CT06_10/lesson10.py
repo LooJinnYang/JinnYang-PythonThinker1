@@ -51,3 +51,5 @@
 #     print("Failure")
 
 age = int(input("Insert your age : "))
+if age < 0 :
+    
