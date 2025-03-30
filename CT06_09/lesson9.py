@@ -69,3 +69,4 @@
 #         sum = sum + savings
 # print(str(sum))
 
+des = 0
