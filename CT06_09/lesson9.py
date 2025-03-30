@@ -65,3 +65,4 @@
 sum=0
 for i in range(7):
     savings= int(input("What is today's savings: "))
+    
