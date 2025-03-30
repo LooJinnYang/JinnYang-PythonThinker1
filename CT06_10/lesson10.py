@@ -2,4 +2,4 @@
 
 num = int(input("Choose a random number: "))
 if num >-1:
-    print("")
+    print(str(num) + "")
