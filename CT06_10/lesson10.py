@@ -41,4 +41,9 @@
 score = int(input("What is the score : "))
 if score > 89:
     print("A")
-v
+if score > 89:
+    print("A")
+if score > 89:
+    print("A")
+if score > 89:
+    print("A")
