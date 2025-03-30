@@ -7,4 +7,5 @@
 #     print(str(num) + " is negative")
 
 import random
-random.randint(10)
+num = random.randint(10)
+
