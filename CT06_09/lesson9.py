@@ -59,6 +59,6 @@ positive_days = 0
 for i in range(7):
     temp = int(input("What is today's temperature"))
     if temp>30:
-        positive_days=+positive_days
+        positive_days+=positive_days
     temp=0
 print(str(positive_days))
