@@ -8,4 +8,4 @@
 
 import random
 num = random.randint(10)
-guess = int(input(""))
+guess = int(input("Guess a random number from 1 to 10 : "))
