@@ -47,3 +47,5 @@ elif score > 69:
     print("C")
 elif score > 59:
     print("D")
+else:
+    print
