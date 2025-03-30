@@ -61,5 +61,4 @@ for i in range(7):
     if temp>30:
         positive_days=+positive_days
     temp=0
-
-    
+print(str())
