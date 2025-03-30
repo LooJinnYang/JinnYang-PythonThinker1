@@ -12,4 +12,4 @@ guess = int(input("Guess a random number from 1 to 10 : "))
 if guess == num:
     print("Congratulations!! You did it!")
 else:
-    print("Oops")
+    print("Oops, better lock next time!")
