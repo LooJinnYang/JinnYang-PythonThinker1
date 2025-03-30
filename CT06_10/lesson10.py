@@ -30,7 +30,7 @@
 #         print("Adult")
 
 temp = int(input("What is the temperature "))
-if age < 13:
+if temp < 20:
     print("Child")
 else:
     if age < 20:
