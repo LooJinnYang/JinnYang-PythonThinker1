@@ -37,21 +37,21 @@
 #     price = num_apples * 1
 #     print("the price of the " + str(num_apples) + " apples = $" + str(price))
 
-num_apples = int(input("How many apples do you want to buy? "))
-num_oranges = int(input("How many oranges do you want to buy? "))
-if num_apples > 5:
-    price = num_apples * 0.54
-    print("the price of the " + str(num_apples) + " apples = $" + str(price))
-else:
-    price = num_apples * 0.60
-    print("the price of the " + str(num_apples) + " apples = $" + str(price))
-if num_oranges > 5:
-    price2 = num_oranges * 0.81
-    print("the price of the " + str(num_oranges) + " oranges = $" + str(price2))
-else:
-    price2 = num_oranges * 0.90
-    print("the price of the " + str(num_oranges) + " oranges = $" + str(price2))
-total_price = float(price) + float(price2)
-total_price = float(f"{total_price:.1f}")
-print(total_price)
+# num_apples = int(input("How many apples do you want to buy? "))
+# num_oranges = int(input("How many oranges do you want to buy? "))
+# if num_apples > 5:
+#     price = num_apples * 0.54
+#     print("the price of the " + str(num_apples) + " apples = $" + str(price))
+# else:
+#     price = num_apples * 0.60
+#     print("the price of the " + str(num_apples) + " apples = $" + str(price))
+# if num_oranges > 5:
+#     price2 = num_oranges * 0.81
+#     print("the price of the " + str(num_oranges) + " oranges = $" + str(price2))
+# else:
+#     price2 = num_oranges * 0.90
+#     print("the price of the " + str(num_oranges) + " oranges = $" + str(price2))
+# total_price = float(price) + float(price2)
+# total_price = float(f"{total_price:.1f}")
+# print(total_price)
 
