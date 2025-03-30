@@ -40,7 +40,7 @@
 
 score = int(input("What is the score : "))
 if score > 89:
-    print("A")
+    print("Average")
 elif score > 79:
     print("B")
 elif score > 69:
