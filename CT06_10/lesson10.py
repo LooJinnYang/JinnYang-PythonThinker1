@@ -52,4 +52,4 @@
 
 age = int(input("Insert your age : "))
 if age < 0 :
-    
+    print("Get out!")
