@@ -15,5 +15,5 @@
 #     print("Oops, better luck next time!")
 
 import random
-num1 = int(num3) % 2 == 0
+num11 = int(num1) % 2 == 0
 print(all_even_odd)
