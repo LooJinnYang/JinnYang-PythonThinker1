@@ -36,4 +36,4 @@ else:
     if temp < 31:
         print("Cycle")
     else:
-        print("")
+        print("Swim")
