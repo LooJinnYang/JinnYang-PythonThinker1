@@ -73,4 +73,6 @@ des = 0
 undes = 0
 
 for i in range (10):
-    int(input("Rate your experience out of 5: "))
+    rate = int(input("Rate your experience out of 5: "))
+    if rate > 3:
+        des+=
