@@ -38,3 +38,4 @@
 #     else:
 #         print("Swim")
 
+score
