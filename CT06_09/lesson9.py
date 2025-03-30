@@ -77,4 +77,4 @@ for i in range (10):
     if rate > 3:
         des+=des
     if rate <= 3:
-        
+        udes+=undes
