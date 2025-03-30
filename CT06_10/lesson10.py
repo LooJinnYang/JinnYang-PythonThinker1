@@ -8,4 +8,4 @@
 
 import random
 num = random.randint(10)
-
+guess = int(input(""))
