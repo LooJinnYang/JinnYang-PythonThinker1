@@ -50,3 +50,4 @@
 # else:
 #     print("Failure")
 
+age = int(input(""))
