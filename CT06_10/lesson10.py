@@ -41,9 +41,9 @@
 score = int(input("What is the score : "))
 if score > 89:
     print("A")
-if score > 79:
-    print("A")
-if score > 69:
+elif score > 79:
+    print("B")
+elif score > 69:
     print("A")
 elif score > 59:
     print("A")
