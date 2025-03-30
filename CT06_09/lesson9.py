@@ -78,3 +78,4 @@ for i in range (10):
         des+=des
     if rate <= 3:
         udes+=undes
+print
