@@ -45,5 +45,5 @@ if score > 79:
     print("A")
 if score > 69:
     print("A")
-if score > 89:
+elif score > 59:
     print("A")
