@@ -75,8 +75,8 @@ undes = 0
 for i in range (10):
     rate = int(input("Rate your experience out of 5: "))
     if rate > 3:
-        des+=des
+        des+=1
     if rate <= 3:
-        undes+=undes
+        undes+=1
 print("Desirable ratings : " + str(des))
 print("Undesirable ratings : " + str(undes))
