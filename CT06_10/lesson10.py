@@ -34,6 +34,6 @@ if temp < 20:
     print("Read")
 else:
     if temp < 31:
-        print("Teen")
+        print("Cycle")
     else:
-        print("Adult")
+        print("")
