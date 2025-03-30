@@ -77,6 +77,6 @@ for i in range (10):
     if rate > 3:
         des+=des
     if rate <= 3:
-        udes+=undes
+        undes+=undes
 print("Desirable ratings : " + str(des))
 print("Undesirable ratings : " + str(undes))
