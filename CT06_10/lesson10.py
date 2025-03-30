@@ -5,3 +5,5 @@ if num >-1:
     print(str(num) + " is positive")
 else:
     print(str(num) + " is negative")
+
+import random
