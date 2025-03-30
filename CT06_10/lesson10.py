@@ -20,4 +20,4 @@
 # else:
 #     print("its odd")
 
-int
+age = int(input())
