@@ -62,9 +62,10 @@
 #         positive_days+=1
 # print(str(positive_days))
 
-sum=0
-for i in range(7):
-    savings= int(input("What is today's savings: "))
-    if savings>0:
-        sum = sum + savings
-print(str(sum))
+# sum=0
+# for i in range(7):
+#     savings= int(input("What is today's savings: "))
+#     if savings>0:
+#         sum = sum + savings
+# print(str(sum))
+
