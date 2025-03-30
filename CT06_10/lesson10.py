@@ -40,4 +40,5 @@
 
 score = int(input("What is the score : "))
 if score > 89:
-    print("")
+    print("A")
+v
