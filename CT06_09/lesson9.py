@@ -57,4 +57,4 @@
 
 positive_days = 0
 for i in range(7):
-    input()
+    int(input())
