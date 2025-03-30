@@ -27,4 +27,4 @@ else:
     if age < 20:
         print("Teen")
     else:
-        print
+        print("Adult")
