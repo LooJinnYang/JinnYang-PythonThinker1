@@ -75,4 +75,6 @@ undes = 0
 for i in range (10):
     rate = int(input("Rate your experience out of 5: "))
     if rate > 3:
-        des+=
+        des+=des
+    else:
+        undes+=undes
