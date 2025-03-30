@@ -14,9 +14,9 @@
 # else:
 #     print("Oops, better luck next time!")
 
-num1 = int(input("choose a number "))
-if num1 % 2 == 0:
-    print("its even")
-else:
-    print("its odd")
+# num1 = int(input("choose a number "))
+# if num1 % 2 == 0:
+#     print("its even")
+# else:
+#     print("its odd")
 
