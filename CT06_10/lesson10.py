@@ -29,7 +29,7 @@
 #     else:
 #         print("Adult")
 
-age = int(input("What is your age "))
+temp = int(input("What is your age "))
 if age < 13:
     print("Child")
 else:
