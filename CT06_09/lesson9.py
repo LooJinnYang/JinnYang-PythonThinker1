@@ -78,4 +78,4 @@ for i in range (10):
         des+=des
     if rate <= 3:
         udes+=undes
-print("Desirable ratings : " + str)
+print("Desirable ratings : " + str(des))
