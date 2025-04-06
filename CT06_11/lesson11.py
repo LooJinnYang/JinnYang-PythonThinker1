@@ -39,8 +39,8 @@
 # else:
 #     print("$20")
 
-# var = input("What is your gender: ")
-# if age < 12 or age > 65:
-#     print("$15")
-# else:
-#     print("$20")
+var = input("What is your gender: ")
+if var < 12 or age > 65:
+    print("$15")
+else:
+    print("$20")
