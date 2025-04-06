@@ -58,13 +58,15 @@
 # if not password == ran:
 #     print("Try again")
 
-username = "John123"
-password = "pw123"
-uattempt = input("Whats the username: ")
-pattempt = input("Whats the password: ")
-if username == uattempt and password == pattempt:
-    print("Access Granted")
-elif username == uattempt or password == pattempt:
-    print("Either one is wrong")
-else:
-    print("Access Denied")
+
+
+# username = "John123"
+# password = "pw123"
+# uattempt = input("Whats the username: ")
+# pattempt = input("Whats the password: ")
+# if username == uattempt and password == pattempt:
+#     print("Access Granted")
+# elif username == uattempt or password == pattempt:
+#     print("Either one is wrong")
+# else:
+#     print("Access Denied")
