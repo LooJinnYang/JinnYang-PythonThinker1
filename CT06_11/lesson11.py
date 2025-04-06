@@ -59,6 +59,9 @@
 #     print("Try again")
 
 b = input("Do you want a burger? ")
+b = input("Do you want a burger? ")
+b = input("Do you want a burger? ")
+
 
 # username = "John123"
 # password = "pw123"
