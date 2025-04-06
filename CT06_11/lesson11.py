@@ -34,7 +34,7 @@
 #     print("X")
 
 age = int(input("What is your age: "))
-if age  or age >= 18:
+if age < 12 or age >= 18:
     print("O")
 else:
     print("X")
