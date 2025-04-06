@@ -55,5 +55,5 @@
 
 password="Again"
 ran = input("Choose the day of the week: ")
-if not password == ra:
+if not password == ran:
     print("It's not the weekend yet!")
