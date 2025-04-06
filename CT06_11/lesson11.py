@@ -75,8 +75,8 @@
 # else:
 #     print("Access Denied")
 
+game_status = input("What is the status of the game: ")
 for i in game_status == "active" or  "paused":
-    game_status = input("What is the status of the game: ")
     if game_status !="active" or  "paused":
         print("Give an actual answer")
 if game_status == "active" or game_status != "paused":
