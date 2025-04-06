@@ -18,3 +18,5 @@
 #     print("X")
 
 num = int(input("Choose a random number"))
+if num%3 == 0 and num%3 == 0:
+    
