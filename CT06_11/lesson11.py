@@ -28,7 +28,7 @@
 
 rider1 = int(input("What is player 1's age: "))
 rider2 = int(input("What is player 2's age: "))
-if rider1 >= 18 and rider2 >= 18:
+if rider1 >= 18 or rider2 >= 18:
     print("O")
 else:
     print("X")
