@@ -59,8 +59,8 @@
 #     print("Try again")
 
 b = input("Do you want a burger? ")
-d = input("Do you want a burger? ")
-f = input("Do you want a burger? ")
+d = input("Do you want a drink? ")
+f = input("Do you want a fries? ")
 
 
 # username = "John123"
