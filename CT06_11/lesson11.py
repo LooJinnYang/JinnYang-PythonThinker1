@@ -21,7 +21,7 @@ num = int(input("Choose a random number: "))
 if num % 3 == 0 and num % 7 == 0:
     print("The number is divisible by 3 and 7")
 
-name1 = input("Choose a random number: ")
-name1 = input("Choose a random number: ")
+name1 = input("First name: ")
+name2 = input("Choose a random number: ")
 if name1 == str(James) and name2 == str(Leong): # need to be string "James"
     print("The number is divisible by 3 and 7")
