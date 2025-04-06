@@ -12,9 +12,9 @@
 
 # rider1 = int(input("What is player 1's height: "))
 # rider2 = int(input("What is player 2's height: "))
-# if rider1 and rider2 > 120:
+# if rider1 > 120 and rider2 > 120:
 #     print("O")
 # else:
 #     print("X")
-
-result= num
+num = int(input("Choose a random number"))
+result= num/3 and num/7
