@@ -76,7 +76,7 @@
 #     print("Access Denied")
 
 status = "Active" or "Paused"
-if status == "Active" or not "Paused":
+if status == "Active" or "Paused":
     print("Game in progress ...")
 else:
     print("Game is paused or inactive.")
