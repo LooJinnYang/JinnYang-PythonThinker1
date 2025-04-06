@@ -80,3 +80,6 @@
 #     print("Game in progress...")
 # else:
 #     print("Game is paused or inactive.")
+
+# you can try asking the user for the status
+# and 
