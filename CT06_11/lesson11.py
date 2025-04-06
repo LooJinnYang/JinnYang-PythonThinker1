@@ -66,4 +66,5 @@ if username == uattempt or password == pattempt:
     print("Either one is wrong")
 elif username == uattempt and password == pattempt:
     print("Access Granted")
-    else
+else:
+    print("")
