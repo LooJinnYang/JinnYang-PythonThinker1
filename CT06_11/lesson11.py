@@ -56,4 +56,4 @@
 password="Again"
 ran = input("Choose the day of the week: ")
 if not password == ran:
-    print("It's not the weekend yet!")
+    print("Try again")
