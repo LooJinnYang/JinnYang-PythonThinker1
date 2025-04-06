@@ -34,3 +34,7 @@
 #     print("X")
 
 age = int(input("What is your age: "))
+if rider1 >= 18 or rider2 >= 18:
+    print("O")
+else:
+    print("X")
