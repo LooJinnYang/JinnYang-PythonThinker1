@@ -63,4 +63,6 @@ password = "pw123"
 uattempt = input("Whats the username: ")
 pattempt = input("Whats the username: ")
 if username == uattempt and password == pattempt:
-    print("Access ")
+    print("Access Granted")
+elif username == uattempt and password == pattempt:
+    print("Access Granted")
