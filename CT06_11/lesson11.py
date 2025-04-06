@@ -45,4 +45,4 @@
 # else:
 #     print("Invalid input")
 
-input("")
+input("Choose a colour: ")
