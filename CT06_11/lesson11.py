@@ -10,4 +10,4 @@
 # else:
 #     print("Don't even think about it!")
 
-int(input("What is p"))
+int(input("What is player 1's height"))
