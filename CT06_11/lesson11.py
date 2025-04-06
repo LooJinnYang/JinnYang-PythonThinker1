@@ -16,6 +16,7 @@
 #     print("O")
 # else:
 #     print("X")
+
 num = int(input("Choose a random number"))
 result= num/3 and num/7
 print(str(result))
