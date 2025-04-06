@@ -59,7 +59,7 @@
 #     print("Try again")
 
 b = input("Do you want a burger? ")
-f = input("Do you want a fries? ")
+f = input("Do you want fries? ")
 d = input("Do you want a drink? ")
 
 
