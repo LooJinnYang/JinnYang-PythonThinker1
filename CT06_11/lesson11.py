@@ -21,7 +21,7 @@
 # if num % 3 == 0 and num % 7 == 0:
 #     print("The number is divisible by 3 and 7")
 
-name1 = input("First name: ")
-name2 = input("Last name: ")
-if name1 == "James" and name2 == "Leong": # need to be string "James"
-    print("You Are WANTED")
+# name1 = input("First name: ")
+# name2 = input("Last name: ")
+# if name1 == "James" and name2 == "Leong": # need to be string "James"
+#     print("You Are WANTED")
