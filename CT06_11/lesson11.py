@@ -54,6 +54,6 @@
 #     print("It's not the weekend yet!")
 
 password="Again"
-ran = input(" ")
+ran = input("Insert the password here: ")
 if not password == ran:
     print("Try again")
