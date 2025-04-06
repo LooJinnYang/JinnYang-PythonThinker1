@@ -75,4 +75,4 @@
 # else:
 #     print("Access Denied")
 
-game
+status = active
