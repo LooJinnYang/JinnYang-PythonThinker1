@@ -53,6 +53,7 @@
 # if not ran == "Saturday":
 #     print("It's not the weekend yet!")
 
+password
 ran = input("Choose the day of the week: ")
 if not ran == "Saturday":
     print("It's not the weekend yet!")
