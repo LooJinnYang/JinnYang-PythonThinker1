@@ -76,3 +76,5 @@
 #     print("Access Denied")
 
 status = "Active" or "Paused"
+if status == "Active" or not "Paused":
+    print("")
