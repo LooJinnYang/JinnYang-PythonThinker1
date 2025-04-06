@@ -45,4 +45,6 @@
 # else:
 #     print("Invalid input")
 
-raninput("Choose a colour: ")
+ran = input("Choose a colour: ")
+if not ran == "Green":
+    
