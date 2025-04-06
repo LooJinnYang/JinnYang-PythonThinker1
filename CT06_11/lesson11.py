@@ -75,11 +75,11 @@
 # else:
 #     print("Access Denied")
 
-# game_status = input()
+# game_status = input("What is the status of the game: ")
 # if game_status == "active" or game_status != "paused":
 #     print("Game in progress...")
 # else:
 #     print("Game is paused or inactive.")
 
 # you can try asking the user for the status
-# and if they answer anything other than the 
+# and if they answer anything other than the statuses you have, tell them to try again
