@@ -65,4 +65,4 @@ pattempt = input("Whats the username: ")
 if username == uattempt and password == pattempt:
     print("Access Granted")
 elif username == uattempt and password == pattempt:
-    print("Access Granted")
+    print("")
