@@ -58,3 +58,4 @@
 # if not password == ran:
 #     print("Try again")
 
+username = "John123"
