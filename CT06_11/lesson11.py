@@ -33,3 +33,4 @@
 # else:
 #     print("X")
 
+age = int(input(""))
