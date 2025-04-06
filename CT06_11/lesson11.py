@@ -75,4 +75,4 @@
 # else:
 #     print("Access Denied")
 
-status = "Active"
+status = "Active" or "Paused"
