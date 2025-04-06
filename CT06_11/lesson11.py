@@ -60,4 +60,4 @@
 
 username = "John123"
 password = "pw123"
-uattempt = input("")
+uattempt = input("Whats the username ")
