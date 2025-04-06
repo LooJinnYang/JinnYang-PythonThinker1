@@ -47,4 +47,4 @@
 
 ran = input("Choose a colour: ")
 if not ran == "Green":
-    
+    print("Try again")
