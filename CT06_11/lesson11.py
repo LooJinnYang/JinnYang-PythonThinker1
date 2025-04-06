@@ -39,8 +39,8 @@
 # else:
 #     print("$20")
 
-var = input("What is your gender: ")
-if var == "M" or var == "Male":
-    print("Valid input")
-else:
-    print("Invalid input")
+# var = input("What is your gender: ")
+# if var == "M" or var == "Male":
+#     print("Valid input")
+# else:
+#     print("Invalid input")
