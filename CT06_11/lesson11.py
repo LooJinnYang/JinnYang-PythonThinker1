@@ -50,5 +50,5 @@
 #     print("Try again")
 
 ran = input("Choose the day of the week: ")
-if not ran == "Green":
-    print("Try again")
+if not ran == "Saturday":
+    print("")
