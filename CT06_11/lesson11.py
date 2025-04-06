@@ -8,4 +8,4 @@ elif px <= 5:
 elif px <= 5:
     print("Where are ou getting this money from?!")
 else:
-        print("Sounds good!")
+        print("Don't even ")
