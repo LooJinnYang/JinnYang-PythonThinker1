@@ -58,7 +58,7 @@
 # if not password == ran:
 #     print("Try again")
 
-b = input("")
+b = input("Do you want a burger? ")
 
 # username = "John123"
 # password = "pw123"
