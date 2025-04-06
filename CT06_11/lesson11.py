@@ -18,5 +18,5 @@
 #     print("X")
 
 num = int(input("Choose a random number: "))
-if num % 3 == 0 and num % 7 == 0: # both your conditions are the same
+if num % 3 == 0 and num % 7 == 0:
     print("The number is divisible by 3 and 7")
