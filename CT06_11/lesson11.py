@@ -62,7 +62,8 @@ username = "John123"
 password = "pw123"
 uattempt = input("Whats the username: ")
 pattempt = input("Whats the username: ")
-if username == uattempt and password == pattempt:
+if username == uattempt or password == pattempt:
     print("Either one is wrong")
 elif username == uattempt and password == pattempt:
     print("Access Granted")
+    else
