@@ -61,7 +61,8 @@
 b = input("Do you want a burger? ")
 f = input("Do you want fries? ")
 d = input("Do you want a drink? ")
-
+if b == "yes" and f == "yes" and not d == "yes":
+    
 
 
 # username = "John123"
