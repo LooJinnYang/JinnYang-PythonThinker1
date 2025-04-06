@@ -17,4 +17,4 @@
 # else:
 #     print("X")
 
-result
+result= num
