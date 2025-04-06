@@ -2,4 +2,4 @@
 
 px=int(input("What is the price"))
 if px <= 5:
-    print
+    print("Sounds good")
