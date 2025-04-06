@@ -18,5 +18,3 @@
 #     print("X")
 
 num = int(input("Choose a random number"))
-result= num/3 %  0 and num/7%0
-print(str(result))
