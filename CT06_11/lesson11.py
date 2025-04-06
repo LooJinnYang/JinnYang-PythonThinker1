@@ -16,3 +16,4 @@ if rider1 and rider2 > 120:
     print("O")
 else:
     print("X")
+
