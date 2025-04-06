@@ -51,4 +51,4 @@
 
 ran = input("Choose the day of the week: ")
 if not ran == "Saturday":
-    print("")
+    print("It's not the weekend yet!")
