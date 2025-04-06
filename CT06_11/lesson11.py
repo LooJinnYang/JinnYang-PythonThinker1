@@ -11,4 +11,4 @@
 #     print("Don't even think about it!")
 
 rider1 = int(input("What is player 1's height: "))
-int(input("What is player 1's height: "))
+rider2 = int(input("What is player 1's height: "))
