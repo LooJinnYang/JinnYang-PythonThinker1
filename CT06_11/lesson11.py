@@ -40,7 +40,7 @@
 #     print("$20")
 
 var = input("What is your gender: ")
-if var < 12 or var > 65:
-    print("$15")
+if var == "M" or var == "Male":
+    print("Valid input")
 else:
-    print("$20")
+    print("Invalid input")
