@@ -10,5 +10,5 @@
 # else:
 #     print("Don't even think about it!")
 
-int(input("What is player 1's height: "))
+rider1 = int(input("What is player 1's height: "))
 int(input("What is player 1's height: "))
