@@ -47,6 +47,7 @@
 # print("Come another day")
 
 order = ""
+skip
 while True:
     item = input("What is your order: ")
     if item == "end":
