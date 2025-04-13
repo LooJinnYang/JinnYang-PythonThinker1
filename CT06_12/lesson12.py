@@ -43,4 +43,4 @@ while True:
     if vis > 30:
         break
 
-print("")
+print("Come another day")
