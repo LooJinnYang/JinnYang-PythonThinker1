@@ -71,3 +71,4 @@
 #     print("Happy New Year!")
 
 import random
+random.randint(1,10)
