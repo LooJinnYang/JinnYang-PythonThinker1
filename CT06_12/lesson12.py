@@ -35,6 +35,9 @@
 #     vis3 += 1
 #     print (vis3)
 
+vis = 0
 while True:
     inp = input("Add 1 visitor?")
-    
+    if inp == "yes":
+        vis += 1
+        
