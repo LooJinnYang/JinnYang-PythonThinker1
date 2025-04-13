@@ -1,6 +1,7 @@
 # print("Hello from lesson 12")
 
 ##########
+#Best code ever!!!#
 import time
 a = 0
 for i in range(99999999999):
