@@ -50,7 +50,7 @@ order = ""
 while True:
     item = input("What is your order: ")
     if item == "end":
-        
+        print(item + order)
         break
     else:
         order = item + " , " + order
