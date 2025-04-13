@@ -41,4 +41,6 @@ while True:
     if inp == "yes":
         vis += 1
     if vis > 30:
-        brak
+        break
+
+print("")
