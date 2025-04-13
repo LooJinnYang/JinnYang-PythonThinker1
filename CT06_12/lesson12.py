@@ -41,7 +41,7 @@ while True:
     if inp == "yes":
         vis += 1
         print(vis)
-    if vis == 6:
+    if vis == 3:
         break
 
 print("Come another day")
