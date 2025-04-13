@@ -6,4 +6,4 @@ if num % 3 == 0 and num % 5 == 0:
 else:
     print ("The number is not divisible by 3 and 5!")
 
-vis
+vis = 0
