@@ -19,6 +19,6 @@ for i in range(99999999999):
 
 vis = 0
 i = int(input("what is the limit"))
-while vis < 50:
+while vis < i:
     vis += 1
     print (vis)
