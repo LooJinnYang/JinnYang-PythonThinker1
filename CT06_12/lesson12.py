@@ -17,17 +17,17 @@ for i in range(99999999999):
 # else:
 #     print ("The number is not divisible by 3 and 5!")
 
-vis = 0
-i = int(input("what is the limit"))
-while vis < i:
-    vis += 1
-    print (vis)
+# vis = 0
+# i = int(input("what is the limit"))
+# while vis < i:
+#     vis += 1
+#     print (vis)
 
-vis2 = 18
-i = int(input("what is the limit"))
-while vis2 < i:
-    vis2 += 1
-    print (vis2)
+# vis2 = 18
+# i = int(input("what is the limit"))
+# while vis2 < i:
+#     vis2 += 1
+#     print (vis2)
 
 vis3 = 4
 i = int(input("what is the limit"))
