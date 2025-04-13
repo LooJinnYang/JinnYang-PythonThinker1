@@ -55,7 +55,7 @@ while True:
     else:
         if skip == True:
             order = item + order
-            skip == 
+            skip == False
         else:
             order = item + " , " + order
 print (order)
