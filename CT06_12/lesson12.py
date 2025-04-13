@@ -4,7 +4,7 @@
 # #Best code ever!!!#
 # import time
 # a = 0
-# for i in range(99999999999):
+# while True:
 #     print(str(a))
 #     a = a + 1
 #     time.sleep(1)
