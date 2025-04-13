@@ -1,6 +1,8 @@
 # print("Hello from lesson 12")
 
-import
+import time
+for i in range(99999999999):
+    print
 
 # num = int(input("Choose a random number: "))
 # if num % 3 == 0 and num % 5 == 0:
