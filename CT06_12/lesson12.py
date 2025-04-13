@@ -47,4 +47,4 @@
 # print("Come another day")
 
 while True:
-    order = 
+    order = input("What is your order: ")
