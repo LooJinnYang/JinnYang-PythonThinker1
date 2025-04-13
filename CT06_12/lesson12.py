@@ -3,7 +3,8 @@
 import time
 a = 0
 for i in range(99999999999):
-    print()
+    print(str(a))
+    
 
 # num = int(input("Choose a random number: "))
 # if num % 3 == 0 and num % 5 == 0:
