@@ -46,19 +46,19 @@
 
 # print("Come another day")
 
-order = ""
-skip = True
-while True:
-    item = input("What is your order: ")
-    if item == "end":
-        break
-    else:
-        if skip == True:
-            order += item
-            skip = False
-        else:
-            order += " , " + item
-print (order)
+# order = ""
+# skip = True
+# while True:
+#     item = input("What is your order: ")
+#     if item == "end":
+#         break
+#     else:
+#         if skip == True:
+#             order += item
+#             skip = False
+#         else:
+#             order += " , " + item
+# print (order)
 
 count = 10
 
