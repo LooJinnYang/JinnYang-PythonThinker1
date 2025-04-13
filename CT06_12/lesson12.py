@@ -52,5 +52,5 @@ while True:
     if item == "end":
         break
     else:
-        order = item + "," + order
+        order = item + " , " + order
 print (order)
