@@ -59,3 +59,11 @@ while True:
         else:
             order += " , " + item
 print (order)
+
+count = 10
+
+while count > 0:
+    print(count)
+    count -= 1
+else:
+    print("Happy New Year!")
