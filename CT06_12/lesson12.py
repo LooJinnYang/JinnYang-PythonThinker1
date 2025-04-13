@@ -35,3 +35,5 @@
 #     vis3 += 1
 #     print (vis3)
 
+while True:
+    inp = i
