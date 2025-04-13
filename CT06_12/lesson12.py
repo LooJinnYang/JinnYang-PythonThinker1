@@ -23,11 +23,11 @@ while vis < i:
     vis += 1
     print (vis)
 
-vis = 18
+vis2 = 18
 i = int(input("what is the limit"))
-while vis < i:
-    vis += 1
-    print (vis)
+while vis2 < i:
+    vis2 += 1
+    print (vis2)
 
 vis = 4
 i = int(input("what is the limit"))
