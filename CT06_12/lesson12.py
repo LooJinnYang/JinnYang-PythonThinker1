@@ -36,4 +36,4 @@
 #     print (vis3)
 
 while True:
-    inp = i
+    inp = input()
