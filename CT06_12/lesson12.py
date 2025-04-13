@@ -1,3 +1,3 @@
 # print("Hello from lesson 12")
 
-int(input("Choose a random number: "))
+num = int(input("Choose a random number: "))
