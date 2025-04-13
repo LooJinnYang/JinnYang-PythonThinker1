@@ -10,4 +10,4 @@ int(vis) = 0
 while vis < 50:
     vis = vis + 1
     print (str(vis))
-    print ("The max num of visitors is")
+    print ("The max num of visitors is 50")
