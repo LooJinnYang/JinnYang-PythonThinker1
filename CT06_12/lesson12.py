@@ -15,5 +15,5 @@ for i in range(99999999999):
 
 vis = 0
 while vis < 50:
-    vis = vis + 1
+    vis += 1
     print (vis)
