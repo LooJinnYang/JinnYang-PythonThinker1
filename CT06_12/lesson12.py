@@ -18,7 +18,7 @@ for i in range(99999999999):
 #     print ("The number is not divisible by 3 and 5!")
 
 vis = 0
-int(I)
+int(input(h))
 while vis < 50:
     vis += 1
     print (vis)
