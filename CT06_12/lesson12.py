@@ -52,4 +52,4 @@ while True:
     if item == "end":
         break
     else:
-        order = item
+        order = item + order
