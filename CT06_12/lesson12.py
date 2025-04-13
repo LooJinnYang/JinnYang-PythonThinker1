@@ -60,12 +60,12 @@
 #             order += " , " + item
 # print (order)
 
-count = 10
+# count = 10
 
-while count > 0:
-    print(count)
-    count -= 1
-    if count == 5 :
-        break
-else:
-    print("Happy New Year!")
+# while count > 0:
+#     print(count)
+#     count -= 1
+#     if count == 5 :
+#         break
+# else:
+#     print("Happy New Year!")
