@@ -35,13 +35,13 @@
 #     vis3 += 1
 #     print (vis3)
 
-vis = 0
-while True:
-    inp = input("Add 1 visitor?")
-    if inp == "yes":
-        vis += 1
-        print(vis)
-    if vis == 3:
-        break
+# vis = 0
+# while True:
+#     inp = input("Add 1 visitor?")
+#     if inp == "yes":
+#         vis += 1
+#         print(vis)
+#     if vis == 3:
+#         break
 
-print("Come another day")
+# print("Come another day")
