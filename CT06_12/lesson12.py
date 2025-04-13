@@ -29,7 +29,7 @@ while vis < i:
     vis += 1
     print (vis)
 
-vis = 0
+vis = 4
 i = int(input("what is the limit"))
 while vis < i:
     vis += 1
