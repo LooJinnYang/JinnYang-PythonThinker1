@@ -40,7 +40,7 @@ while True:
     inp = input("Add 1 visitor?")
     if inp == "yes":
         vis += 1
-    if vis == 6-1:
+    if vis == 6:
         break
 
 print("Come another day")
