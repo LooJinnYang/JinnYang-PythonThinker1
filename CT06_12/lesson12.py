@@ -16,5 +16,5 @@ for i in range(99999999999):
 vis = 0
 while vis < 50:
     vis = vis + 1
-    print (str(vis))
+    print (vis)
     print ("The max num of visitors is 50")
