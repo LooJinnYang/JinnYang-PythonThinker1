@@ -29,8 +29,8 @@ while vis2 < i:
     vis2 += 1
     print (vis2)
 
-vis = 4
+vis3 = 4
 i = int(input("what is the limit"))
-while vis < i:
+while vis3 < i:
     vis += 1
     print (vis)
