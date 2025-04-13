@@ -10,3 +10,4 @@ int(vis) = 0
 while vis < 50:
     vis = vis + 1
     print (str(vis))
+    print ()
