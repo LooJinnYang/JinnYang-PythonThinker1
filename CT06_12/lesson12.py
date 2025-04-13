@@ -40,6 +40,7 @@ while True:
     inp = input("Add 1 visitor?")
     if inp == "yes":
         vis += 1
+        print(vis)
     if vis == 6:
         break
 
