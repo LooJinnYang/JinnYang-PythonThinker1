@@ -75,7 +75,7 @@ while True:
     num1 = random.randint(1,10)
     num2 = random.randint(1,10)
     sum = num1 + num2
-    guess = int(input("What is " + str(num1) + "+ " + str(num2) + "? "))
+    guess = int(input("What is " + str(num1) + " + " + str(num2) + "? "))
     if sum == guess:
         print("Correct!")
         break
