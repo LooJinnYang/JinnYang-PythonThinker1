@@ -46,5 +46,10 @@
 
 # print("Come another day")
 
+order = ""
 while True:
-    order = input("What is your order: ")
+    item = input("What is your order: ")
+    if item == "end":
+        break
+    else:
+        order = item
