@@ -6,7 +6,7 @@ if num % 3 == 0 and num % 5 == 0:
 else:
     print ("The number is not divisible by 3 and 5!")
 
-vis = 0
+int(vis) = 0
 while vis < 50:
     vis = vis + 1
     print 
