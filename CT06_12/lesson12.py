@@ -5,7 +5,7 @@ a = 0
 for i in range(99999999999):
     print(str(a))
     a = a + 1
-    time.sleep()
+    time.sleep(1)
 
 # num = int(input("Choose a random number: "))
 # if num % 3 == 0 and num % 5 == 0:
