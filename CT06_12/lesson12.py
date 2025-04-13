@@ -78,4 +78,4 @@ guess = int(input("What is " + str(num1) + "+ " + str(num2) + "? "))
 if sum == guess:
     print("Correct!")
 else:
-    print
+    print("Wrong!")
