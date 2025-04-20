@@ -105,8 +105,8 @@ for i in groceries:
     if i == "Apples":
         print(i + ": I need 5 of these")
 
-    if i == "Apples":
-        print(i + ": I need 5 of these")
-        
+    if i == "Carrots":
+        print(i + ": I need 3 of these")
+
     else:
         print (i)
