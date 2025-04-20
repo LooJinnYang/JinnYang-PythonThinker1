@@ -101,4 +101,6 @@ groceries = [
     "Honey"
 ]
 for i in groceries:
+
+    
     print (i)
