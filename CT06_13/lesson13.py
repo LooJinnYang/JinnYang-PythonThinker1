@@ -102,5 +102,8 @@ groceries = [
 ]
 for i in groceries:
 
-    
-    print (i)
+    if i == "Apples":
+        print
+
+    else:
+        print (i)
