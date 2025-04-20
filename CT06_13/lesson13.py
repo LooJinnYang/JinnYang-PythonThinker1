@@ -109,7 +109,7 @@ for i in groceries:
         print(i + ": I need 3 of these")
 
     if i == "Grapes":
-        print(i + ": Get the FarmFresh ")
+        print(i + ": Get the FarmFresh brand")
 
     else:
         print (i)
