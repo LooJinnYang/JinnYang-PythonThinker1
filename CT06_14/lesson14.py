@@ -29,5 +29,5 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("green")
 for i in range(4):
-    t
+    t.forward(100)
 window.mainloop()
