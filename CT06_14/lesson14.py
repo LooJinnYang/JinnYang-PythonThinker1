@@ -11,5 +11,5 @@ window.setup(width = 600, height = 400)
 t = turtle.Turtle()
 t.shape("square")
 t.fillcolor("green")
-t.speed
+t.speed(10)
 window.mainloop()
