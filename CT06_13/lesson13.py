@@ -125,4 +125,4 @@ toppings=[
 "Pineapple"
 ]
 counter = 1
-print("Your available toppings are " + str(toppings))
+print("Your available toppings are " + str(counter) str(toppings))
