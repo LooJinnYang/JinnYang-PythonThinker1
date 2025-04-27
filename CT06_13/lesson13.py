@@ -119,26 +119,26 @@
 #     print(t)
 #     break
 
-toppings=[
-"Mushrooms",
-"Pepperoni",
-"Pineapple"
-]
+# toppings=[
+# "Mushrooms",
+# "Pepperoni",
+# "Pineapple"
+# ]
 
-want = []
+# want = []
 
-print("Your available toppings are ")
-for i in range (len(toppings)):
-    print(str(i + 1) + "." + toppings[i])
+# print("Your available toppings are ")
+# for i in range (len(toppings)):
+#     print(str(i + 1) + "." + toppings[i])
 
-while True:
-    choice = input("What topping do you want: ")
+# while True:
+#     choice = input("What topping do you want: ")
 
-    if choice == "end":
-        break
-    else:
-        want.append(toppings[int(choice) - 1])
+#     if choice == "end":
+#         break
+#     else:
+#         want.append(toppings[int(choice) - 1])
 
-print("Toppings selected: ")
-for i in range (len(want)):
-    print(str(i + 1) + "." + want[i])
+# print("Toppings selected: ")
+# for i in range (len(want)):
+#     print(str(i + 1) + "." + want[i])
