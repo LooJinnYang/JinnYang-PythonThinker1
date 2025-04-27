@@ -128,4 +128,4 @@ toppings=[
 print("Your available toppings are ")
 for i in range (len(toppings)): # range(len(toppings))
     print(str(i + 1) + "." +toppings[i])
-    int(counter) += 1
+
