@@ -124,4 +124,4 @@ toppings=[
 "Pepperoni",
 "Pineapple"
 ]
-print("")
+print("Your available toppings are ")
