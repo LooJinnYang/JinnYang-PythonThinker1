@@ -124,4 +124,4 @@ toppings=[
 "Pepperoni",
 "Pineapple"
 ]
-prnt
+print("")
