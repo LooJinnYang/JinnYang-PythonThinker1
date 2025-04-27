@@ -9,6 +9,6 @@ import turtle
 window = turtle.Screen()
 window.setup(width = 600, height = 400)
 t = turtle.Turtle()
-turtle.shape(square)
-turtle.fillcolor(green)
+turtle.shape("square")
+turtle.fillcolor("green")
 window.mainloop()
