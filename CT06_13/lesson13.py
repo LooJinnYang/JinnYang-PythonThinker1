@@ -138,5 +138,5 @@ while True:
         break
     else:
         print("Your available toppings are ")
-        for i in range (len()):
-            print(str(i + 1) + "." +toppings[i])
+        for i in range (len(want)):
+            print(str(i + 1) + "." +[i])
