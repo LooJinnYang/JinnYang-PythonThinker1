@@ -2,5 +2,5 @@
 
 import turtle
 window = turtle.Screen()
-window.setup()
+window.setup(width = 400)
 window.mainloop()
