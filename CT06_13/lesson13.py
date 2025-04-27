@@ -124,5 +124,5 @@ toppings=[
 "Pepperoni",
 "Pineapple"
 ]
-counter = 1
+
 print("Your available toppings are " + str(toppings))
