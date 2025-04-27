@@ -83,6 +83,6 @@ t.fillcolor("green")
 t.pendown()
 for i in range(5):
     t.forward(200)
-    t.right(179)
+    t.right(100)
 t.penup()
 window.mainloop()
