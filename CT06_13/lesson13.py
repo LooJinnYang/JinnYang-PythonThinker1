@@ -128,7 +128,7 @@ toppings=[
 want = []
 
 print("Your available toppings are ")
-for i in range (len(toppings)): # range(len(toppings))
+for i in range (len(toppings)):
     print(str(i + 1) + "." +toppings[i])
 
 while True:
