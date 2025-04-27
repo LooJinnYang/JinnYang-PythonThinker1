@@ -30,5 +30,5 @@ t.shape("turtle")
 t.fillcolor("green")
 for i in range(4):
     t.forward(100)
-    
+    t.seth
 window.mainloop()
