@@ -84,5 +84,6 @@ t.pendown()
 for i in range(5):
     t.forward(100)
     t.right(90)
+t.forward
 t.penup()
 window.mainloop()
