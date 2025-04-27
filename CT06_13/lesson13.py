@@ -121,6 +121,6 @@
 
 toppings=[
 "Mushrooms",
-"Mushrooms",
+"Pepperoni",
 "Mushrooms"
 ]
