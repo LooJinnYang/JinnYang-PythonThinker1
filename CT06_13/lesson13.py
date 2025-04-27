@@ -132,4 +132,5 @@ for i in range (len(toppings)): # range(len(toppings))
 while True:
     choice = input("What topping do you want: ")
 
-    
+    if choice == "end":
+        break
