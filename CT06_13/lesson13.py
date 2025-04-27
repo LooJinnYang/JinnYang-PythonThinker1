@@ -130,4 +130,6 @@ for i in range (len(toppings)): # range(len(toppings))
     print(str(i + 1) + "." +toppings[i])
 
 while True:
-    choice = input("")
+    choice = input("What topping do you want: ")
+
+    
