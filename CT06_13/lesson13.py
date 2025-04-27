@@ -90,27 +90,27 @@
 
 # print(groceries)
 
-groceries = [
-    "Apples",
-    "Bread",
-    "Carrots",
-    "Dates",
-    "Eggs",
-    "Flour",
-    "Grapes",
-    "Honey"
-]
-for i in groceries:
+# groceries = [
+#     "Apples",
+#     "Bread",
+#     "Carrots",
+#     "Dates",
+#     "Eggs",
+#     "Flour",
+#     "Grapes",
+#     "Honey"
+# ]
+# for i in groceries:
 
-    if i == "Apples":
-        print(i + ": I need 5 of these")
+#     if i == "Apples":
+#         print(i + ": I need 5 of these")
 
-    elif i == "Carrots":
-        print(i + ": I need 3 of these")
+#     elif i == "Carrots":
+#         print(i + ": I need 3 of these")
 
-    elif i == "Grapes":
-        print(i + ": Get the FarmFresh brand")
+#     elif i == "Grapes":
+#         print(i + ": Get the FarmFresh brand")
 
-    else:
-        print (i)
+#     else:
+#         print (i)
 
