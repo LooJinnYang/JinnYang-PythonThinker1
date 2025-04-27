@@ -124,5 +124,5 @@ toppings=[
 "Pepperoni",
 "Pineapple"
 ]
-for i in range (len): # range(len(toppings))
+for i in range (len(toppings)): # range(len(toppings))
     print("Your available toppings are " + str(toppings))
