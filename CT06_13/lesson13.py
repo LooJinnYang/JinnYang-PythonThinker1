@@ -129,7 +129,7 @@ want = []
 
 print("Your available toppings are ")
 for i in range (len(toppings)):
-    print(str(i + 1) + "." +toppings[i])
+    print(str(i + 1) + "." + toppings[i])
 
 while True:
     choice = input("What topping do you want: ")
@@ -139,4 +139,4 @@ while True:
     else:
         print("Your available toppings are ")
         for i in range (len(want)):
-            print(str(i + 1) + "." +[i])
+            print(str(i + 1) + "." + want[i])
