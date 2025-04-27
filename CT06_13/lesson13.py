@@ -124,7 +124,5 @@ toppings=[
 "Pepperoni",
 "Pineapple"
 ]
-counter=1
 for i in range (len(toppings)): # range(len(toppings))
     print("Your available toppings are " + str(toppings)[i+1])
-    counter += 1
