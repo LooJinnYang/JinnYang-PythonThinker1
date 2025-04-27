@@ -125,4 +125,4 @@ toppings=[
 "Pineapple"
 ]
 for i in range (len(toppings)): # range(len(toppings))
-    print("Your available toppings are " + str(toppings))
+    print("Your available toppings are " + str(toppings[counter]))
