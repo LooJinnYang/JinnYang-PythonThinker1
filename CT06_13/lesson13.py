@@ -137,7 +137,7 @@ while True:
     if choice == "end":
         break
     else:
-        want.append()
+        want.append(choice)
 
 print("Toppings selected: ")
 for i in range (len(want)):
