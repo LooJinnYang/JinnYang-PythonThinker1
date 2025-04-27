@@ -122,5 +122,6 @@
 toppings=[
 "Mushrooms",
 "Pepperoni",
-"Mushrooms"
+"Pineapple"
 ]
+prnt
