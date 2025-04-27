@@ -129,3 +129,4 @@ counter = 1
 print("Your available toppings are ")
 for i in range (len(toppings)): # range(len(toppings))
     print(counter + toppings[i])
+    counter+=1
