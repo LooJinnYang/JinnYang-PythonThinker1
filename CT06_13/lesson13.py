@@ -124,5 +124,7 @@ toppings=[
 "Pepperoni",
 "Pineapple"
 ]
+for i in range (toppings):
+    print("Your available toppings are " + str(toppings))
 
-print("Your available toppings are " + str(toppings))
+while True:
