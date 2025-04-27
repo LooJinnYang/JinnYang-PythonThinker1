@@ -125,4 +125,4 @@ toppings=[
 "Pineapple"
 ]
 for i in range (len(toppings)): # range(len(toppings))
-    print("Your available toppings are " + toppings[i+1])
+    print("Your available toppings are " + toppings[i])
