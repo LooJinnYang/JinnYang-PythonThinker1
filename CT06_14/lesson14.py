@@ -68,8 +68,8 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("green")
 t.pendown()
-for i in range(3):
+for i in range(5):
     t.forward(100)
-    t.right(120)
+    t.right(72)
 t.penup()
 window.mainloop()
