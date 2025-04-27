@@ -28,9 +28,9 @@ window.setup(width = 600, height = 400)
 t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("green")
-pen.down()
+t.pendown()
 for i in range(4):
     t.forward(100)
     t.right(90)
-t.pen
+t.penup()
 window.mainloop()
