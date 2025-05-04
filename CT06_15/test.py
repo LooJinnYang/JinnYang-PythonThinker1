@@ -31,7 +31,7 @@ var = input("Insert the password here: ")
 if not password == var:
     print("Access Denied")
 else:
-    print
+    print("A")
 
 
 
