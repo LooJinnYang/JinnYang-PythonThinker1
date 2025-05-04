@@ -69,3 +69,4 @@ del(planets[6])
 print("Planets: ")
 for i in range (len(planets)):
     print(str(i + 1) + "." + planets[i])
+
