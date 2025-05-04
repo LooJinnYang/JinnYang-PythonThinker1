@@ -8,7 +8,8 @@
 # Write your code here
 i = 1
 while i > 9 and i < 200:
-    print()
+    print(i)
+    i
 
 
 
