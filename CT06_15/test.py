@@ -7,10 +7,10 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-i = 10
-while i > 9 and i < 201:
-    print(i)
-    i += 10
+# i = 10
+# while i > 9 and i < 201:
+#     print(i)
+#     i += 10
 
 
 
@@ -26,12 +26,12 @@ while i > 9 and i < 201:
 
 # Write your code here
 
-password = "superpass123"
-var = input("Insert the password here: ")
-if password == var:
-    print("Access Granted")
-else:
-    print("Access Denied")
+# password = "superpass123"
+# var = input("Insert the password here: ")
+# if password == var:
+#     print("Access Granted")
+# else:
+#     print("Access Denied")
 
 
 
