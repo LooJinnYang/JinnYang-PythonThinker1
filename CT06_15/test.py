@@ -7,8 +7,8 @@
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
 
-i = 1
-while i > 9 and i < 200:
+i = 10
+while i > 9 and i < 201:
     print(i)
     i += 1
 
