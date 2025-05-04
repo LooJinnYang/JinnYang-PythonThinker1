@@ -10,7 +10,7 @@
 i = 10
 while i > 9 and i < 201:
     print(i)
-    i += 1
+    i += 10
 
 
 
