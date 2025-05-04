@@ -89,3 +89,4 @@ for counter in range(6):
     for sides in range(3):
         turtle.forward(100)
         turtle.left(120)
+    turtle.right
