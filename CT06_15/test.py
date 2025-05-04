@@ -6,10 +6,11 @@
 # Example: 10, 20, 30 ..... 180, 190, 200.
 # Note that the numbers do not need to be printed in one line.
 # Write your code here
+
 i = 1
 while i > 9 and i < 200:
     print(i)
-    i
+    i += 1
 
 
 
