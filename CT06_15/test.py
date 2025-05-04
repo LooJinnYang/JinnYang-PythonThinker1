@@ -27,8 +27,8 @@ while i > 9 and i < 201:
 # Write your code here
 
 password = "superpass123"
-ran = input("Insert the password here: ")
-if not password == ran:
+var = input("Insert the password here: ")
+if not password == var:
     print("Try again")
 
 
