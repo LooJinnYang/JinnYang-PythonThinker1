@@ -29,7 +29,9 @@ while i > 9 and i < 201:
 password = "superpass123"
 var = input("Insert the password here: ")
 if not password == var:
-    print("Try again")
+    print("Access Denied")
+else:
+    print
 
 
 
