@@ -85,3 +85,6 @@
 # print(random.randint(1,100))
 
 import turtle
+for counter in range(6):
+    for sides in range(3):
+        
