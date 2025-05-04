@@ -66,6 +66,6 @@ del(planets[6])
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 
-print("Toppings selected: ")
-for i in range (len(want)):
+print("Planets: ")
+for i in range (len(planets)):
     print(str(i + 1) + "." + want[i])
