@@ -81,3 +81,4 @@
 # else:
 #   print("hi")
 import random
+print(random.randint())
