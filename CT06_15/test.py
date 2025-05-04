@@ -59,7 +59,7 @@ planets[3] = "muskworld"
 
 # 4. Remove uranus from this list.
 
-# re
+# removing from new list
 
 del(planets[6])
 
