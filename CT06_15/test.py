@@ -70,7 +70,9 @@
 # for i in range (len(planets)):
 #     print(str(i + 1) + "." + planets[i])
 
-word = "hello"
-word = "hello 1 "
-word = word*2
-print(word)
+# word = "hello"
+# word = "hello 1 "
+# word = word*2
+# print(word)
+
+name = input()
