@@ -56,9 +56,9 @@ planets.append("neptune")
 #    Rename Mars in the list to be "muskworld"
 
 planets[3] = "muskworld"
-print(planets)
 
 # 4. Remove uranus from this list.
+
 
 
 # 5. Using a for loop, print all the planets 
