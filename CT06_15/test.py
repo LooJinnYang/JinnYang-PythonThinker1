@@ -81,4 +81,4 @@
 # else:
 #   print("hi")
 import random
-print(random.randint())
+print(random.randint(1,100))
