@@ -2,10 +2,10 @@
 
 counter = 0
 
-def counter():
+def increment_counter():
     global counter
     counter += 1
 
 for i in range(3):
-    counter()
+    increment_counter()
 print(counter)
