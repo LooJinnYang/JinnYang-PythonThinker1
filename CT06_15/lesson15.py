@@ -51,5 +51,5 @@
 
 def square(num):
     return num * num
-input("")
+num =input("Choose num to square: ")
 print(square(num))
