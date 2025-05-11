@@ -20,3 +20,4 @@ def double_Number():
     num * 2
 
 double_Number()
+print(num)
