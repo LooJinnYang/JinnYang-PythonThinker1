@@ -51,4 +51,4 @@
 
 def square(num):
     return num * num
-print
+print(square(num))
