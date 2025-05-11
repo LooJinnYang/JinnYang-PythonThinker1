@@ -3,6 +3,7 @@
 counter = 0
 
 def counter():
+    counter = 0
     counter += 1
 
 for i in range(3):
