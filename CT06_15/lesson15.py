@@ -55,4 +55,5 @@ def square(num):
 def square_of_sum(num1,num2):
     return square(num1) + square(num2)
 inp1 = int(input("First number: "))
+inp2 = int(input("Second number: "))
 print(square_of_sum(inp1,inp2))
