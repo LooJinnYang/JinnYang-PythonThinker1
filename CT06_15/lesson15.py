@@ -13,7 +13,7 @@
 
 
 
-num = input("Choose a number to double")
+num = int(input("Choose a number to double"))
 
 def double_Number():
     global num
