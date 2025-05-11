@@ -52,5 +52,5 @@
 # def square(num):
 #     return num * num
 
-def square_of_sum(num1,):
+def square_of_sum(num1,num2):
     return num * num
