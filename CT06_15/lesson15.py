@@ -1,4 +1,5 @@
 # print("Hello from lesson 15")
 
+
 def counter():
-    counter
+    counter += 1
