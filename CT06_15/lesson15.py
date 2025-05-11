@@ -30,8 +30,8 @@ def is_Even(num):
 
 nums = [3,5,8,326,4,]
 
-for num in (nums):
-    if is_Even(num):
+for i in (nums):
+    if is_Even(i):
         print(str(num) + " is an even number.")
     else:
         print(str(num) + " is an odd number.")
