@@ -21,4 +21,3 @@ def double_Number():
     return num
 
 double_Number()
-print(num)
