@@ -41,3 +41,5 @@ for i in (num):
     num % 2 == 0
     if num == True:
         print(str(num) + " is an even number.")
+    else:
+        print(str(num) + " is an odd number.")
