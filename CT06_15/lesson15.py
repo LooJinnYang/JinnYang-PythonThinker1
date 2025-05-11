@@ -16,7 +16,7 @@
 # even
 
 # 1. Create a function named isEven()
-def is_Even():
+def is_Even(num):
 
 # 2. If the number is even, the function should return True
 # 3. If the number is odd, the function should return False
