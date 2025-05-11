@@ -13,4 +13,4 @@ print(counter)
 
 
 
-num = input("C")
+num = input("Choose a number to double")
