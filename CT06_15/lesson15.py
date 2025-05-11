@@ -19,3 +19,4 @@ def double_Number():
     global num
     num * 2
 
+double_Number()
