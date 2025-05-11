@@ -13,3 +13,4 @@ print(counter)
 
 
 
+num = input
