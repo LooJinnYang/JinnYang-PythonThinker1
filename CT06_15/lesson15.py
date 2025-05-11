@@ -40,4 +40,4 @@ num = [1,2,3,4,6,7,8]
 for i in (num):
     num % 2 == 0
     if num == True:
-        print
+        print(str(num) + " is an even number.")
