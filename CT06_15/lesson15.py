@@ -3,7 +3,7 @@
 counter = 0
 
 def counter():
-    counter = 0
+    global counter
     counter += 1
 
 for i in range(3):
