@@ -31,7 +31,6 @@ def is_Even():
 nums = [3,5,8,326,4,]
 
 for num in (nums):
-    is_Even()
     if is_Even(num):
         print(str(num) + " is an even number.")
     else:
