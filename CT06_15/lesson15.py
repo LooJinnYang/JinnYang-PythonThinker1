@@ -18,6 +18,7 @@ num = int(input("Choose a number to double: "))
 def double_Number():
     global num
     num * 2
+    return num
 
 double_Number()
 print(num)
