@@ -17,7 +17,7 @@
 
 # 1. Create a function named isEven()
 def is_Even():
-    return num 
+    return num % 2 == 0
 
 # 2. If the number is even, the function should return True
 # 3. If the number is odd, the function should return False
