@@ -21,7 +21,7 @@ def is_Even():
 
 # 2. If the number is even, the function should return True
 # 3. If the number is odd, the function should return False
-
+    return num % 2 == 0
 
 # 4. Using the 'isEven()' function, loop through a list of numbers and
 #    print them out in this format:
