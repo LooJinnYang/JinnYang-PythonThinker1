@@ -7,4 +7,4 @@ def counter():
 
 for i in range(3):
     counter()
-    
+print(counter)
