@@ -51,4 +51,4 @@
 
 def square(num):
     return num * num
-num = int(input())
+num = int(input("Choose a num to be squared: "))
