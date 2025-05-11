@@ -54,4 +54,4 @@ def square(num):
 
 def square_of_sum(num1,num2):
     return square(num1) + square(num2)
-print(square_of_sum(3,5))
+print(square_of_sum(inp1,5))
