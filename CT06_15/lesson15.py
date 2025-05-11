@@ -11,12 +11,3 @@
 
 # print(counter)
 
-
-
-num = int(input("Choose a number to double: "))
-
-def double_Number():
-    num * 2
-    return num
-
-double_Number()
