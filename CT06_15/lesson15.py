@@ -13,4 +13,4 @@ print(counter)
 
 
 
-num = input
+num = input("C")
