@@ -15,3 +15,6 @@ print(counter)
 
 num = input("Choose a number to double")
 
+def increment_counter():
+    global counter
+    counter += 1
