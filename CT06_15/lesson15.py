@@ -47,3 +47,5 @@
 #         print(str(num) + " is an odd number.")
 
 ##########################################
+
+defsquare()
