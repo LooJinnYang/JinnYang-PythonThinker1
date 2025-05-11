@@ -37,7 +37,7 @@
 #         print(str(num) + " is an odd number.")
 
 num = [1,2,3,4,6,7,8]
-for i in (num):
+for num in (num):
     num % 2 == 0
     if num == True:
         print(str(num) + " is an even number.")
