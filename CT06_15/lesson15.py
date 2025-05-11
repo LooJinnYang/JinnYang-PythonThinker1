@@ -36,7 +36,7 @@
 #     else:
 #         print(str(num) + " is an odd number.")
 
-# *Troll code*
+# *Troll code* ##########################
 # num = [1,2,3,4,6,7,8]
 # for num in (num):
 #     num % 2 == 0
@@ -44,3 +44,4 @@
 #         print(str(num) + " is an even number.")
 #     else:
 #         print(str(num) + " is an odd number.")
+##########################################
