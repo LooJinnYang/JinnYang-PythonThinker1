@@ -51,3 +51,4 @@
 
 def square(num):
     return num * num
+print
