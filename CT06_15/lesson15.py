@@ -27,8 +27,9 @@ def is_Even():
 #     "3 is an odd number"
 #     "9 is an odd number"
 #     "2 is an even number"
-num = [3,
-
-      
+num = [
+3,
+5,
+ 
       
 ]
