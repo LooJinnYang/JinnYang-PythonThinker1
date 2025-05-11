@@ -33,4 +33,4 @@ num = [3,5,8,326,4,]
 for i in range(num):
     is_Even()
     if is_Even == True:
-        print(str(num) + "is an ")
+        print(str(num) + "is an even number.")
