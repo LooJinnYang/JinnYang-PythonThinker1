@@ -39,3 +39,4 @@
 num = [1,2,3,4,6,7,8]
 for i in (num):
     num % 2 == 0
+    print
