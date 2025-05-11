@@ -49,5 +49,8 @@
 ##########################################
 
 
+# def square(num):
+#     return num * num
+
 def square(num):
     return num * num
