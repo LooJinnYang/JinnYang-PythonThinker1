@@ -32,7 +32,7 @@ nums = [3,5,8,326,4,]
 
 for num in (nums):
     is_Even()
-    if is_Even == True:
+    if is_Even(num):
         print(str(num) + " is an even number.")
     else:
         print(str(num) + " is an odd number.")
