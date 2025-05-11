@@ -35,4 +35,4 @@
 #         print(str(num) + " is an even number.")
 #     else:
 #         print(str(num) + " is an odd number.")
-
+num = []
