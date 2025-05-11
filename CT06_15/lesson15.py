@@ -1,20 +1,20 @@
 # print("Hello from lesson 15")
 
-counter = 0
+# counter = 0
 
-def increment_counter():
-    global counter
-    counter += 1
+# def increment_counter():
+#     global counter
+#     counter += 1
 
-for i in range(3):
-    increment_counter()
+# for i in range(3):
+#     increment_counter()
 
-print(counter)
+# print(counter)
 
 
 
 num = input("Choose a number to double")
 
-def increment_counter():
+def double_Number():
     global counter
     counter += 1
