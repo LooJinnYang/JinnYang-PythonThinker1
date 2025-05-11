@@ -16,5 +16,5 @@
 num = input("Choose a number to double")
 
 def double_Number():
-    global counter
+    global num
     counter += 1
