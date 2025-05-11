@@ -16,7 +16,7 @@
 num = int(input("Choose a number to double: "))
 
 def double_Number():
-    global num
+    local num
     num * 2
     return num
 
