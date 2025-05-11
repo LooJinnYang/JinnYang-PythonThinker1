@@ -51,4 +51,5 @@
 
 def square(num):
     return num * num
+input("")
 print(square(num))
