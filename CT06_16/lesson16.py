@@ -26,5 +26,5 @@ import turtle
 
 def setp(length, hight):
     screen = turtle.screen()
-    screen.setup(width)
+    screen.setup(width = length)
 
