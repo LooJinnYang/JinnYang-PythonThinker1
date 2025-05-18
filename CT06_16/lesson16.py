@@ -48,7 +48,7 @@ def create():
 
 def move(ball, dx, dy):
     ball.setx(ball.xcor() + dx)
-    ball.sety() = (ball.ycor() + dy)
+    ball.sety(ball.ycor() + dy)
 
 
 length = 300
