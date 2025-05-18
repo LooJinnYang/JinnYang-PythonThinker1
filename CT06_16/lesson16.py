@@ -6,7 +6,7 @@ def drawShape(times, length):
     ang = 360 / times
     t.pendown()
     for i in range(times):
-        t.forward(100)
+        t.forward(length)
         t.right(ang)
     t.penup()
 window = turtle.Screen()
