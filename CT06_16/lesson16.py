@@ -24,7 +24,7 @@
 
 import turtle
 
-def drawShape(times, length):
+def setp(times, length):
     ang = 360 / times
     t.pendown()
     for i in range(times):
@@ -32,5 +32,3 @@ def drawShape(times, length):
         t.right(ang)
     t.penup()
 
-drawShape(times, length)
-window.mainloop()
