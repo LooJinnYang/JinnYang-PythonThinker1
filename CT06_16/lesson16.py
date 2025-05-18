@@ -40,7 +40,8 @@ def setp(length, hight):
     return screen
 
 def create():
-    ball = 
+    ball = turtle.Turtle()
+    
 
 length = 300
 hight = 500
