@@ -47,7 +47,7 @@ def create():
     return ball
 
 def move(ball, dx, dy):
-    ball.setx() = (ball.xcor() + dx)
+    ball.setx(ball.xcor() + dx)
     ball.sety() = (ball.ycor() + dy)
 
 
