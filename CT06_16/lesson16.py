@@ -2,10 +2,10 @@
 
 import turtle
 
-def drawShape(imes):
-    ang = 360 / imes
+def drawShape(times):
+    ang = 360 / times
     t.pendown()
-    for i in range(imes):
+    for i in range(times):
         t.forward(100)
         t.right(ang)
     t.penup()
