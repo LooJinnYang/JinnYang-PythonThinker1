@@ -18,12 +18,14 @@ def move_ball(ball, dx, dy):
     ball.sety(ball.ycor() + dy)
 
 def check_x(ball, screenWidth):
-    if ball.xcor() > screenWidth / 2 or ball.xcor() < -screenWidth / 2:
+    half_ball = 10  # Radius of the ball (half of default turtle size)
+    if ball.xcor() > (screenWidth / 2 - half_ball) or ball.xcor() < -(screenWidth / 2 - half_ball):
         return True
     return False
 
 def check_y(ball, screenHeight):
-    if ball.ycor() > screenHeight / 2 or ball.ycor() < -screenHeight / 2:
+    half_ball = 10  # Radius of the ball (half of default turtle size)
+    if ball.ycor() > (screenHeight / 2 - half_ball) or ball.ycor() < -(screenHeight / 2 - half_ball):
         return True
     return False
 
