@@ -30,3 +30,4 @@ def setp(length, hight):
     return screen
 
 length = 300
+hight = 500
