@@ -42,7 +42,7 @@ def setp(length, hight):
 def create():
     ball = turtle.Turtle()
     ball.shape("circle")
-    
+    ball
 
 length = 300
 hight = 500
