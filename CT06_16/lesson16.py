@@ -46,6 +46,10 @@ def create():
     ball.penup()
     return ball
 
+def move():
+    
+
+
 length = 300
 hight = 500
 screen = setp(length, hight)
