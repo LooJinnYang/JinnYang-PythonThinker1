@@ -38,8 +38,5 @@ def drawShape(times, length):
         t.right(ang)
     t.penup()
 
-times = int(input("How many sides does your polygon have: "))
-length = int(input("How long does your turtle move: "))
-
 drawShape(times, length)
 window.mainloop()
