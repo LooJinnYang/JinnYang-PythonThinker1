@@ -28,7 +28,7 @@ window = turtle.Screen()
 window.setup(width = 300, height = 500)
 t = turtle.Turtle()
 t.shape("turtle")
-t.fillcolor("green")
+t.fillcolor("blue")
 
 def drawShape(times, length):
     ang = 360 / times
