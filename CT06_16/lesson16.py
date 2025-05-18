@@ -42,6 +42,6 @@ def setp(length, hight):
 length = 300
 hight = 500
 screen = setp(length, hight)
-
+ball = create()
 
 screen.mainloop()
