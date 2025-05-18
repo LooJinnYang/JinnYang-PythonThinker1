@@ -24,7 +24,7 @@
 
 import turtle
 
-def setp(times, length):
+def setp(length, height):
     ang = 360 / times
     t.pendown()
     for i in range(times):
