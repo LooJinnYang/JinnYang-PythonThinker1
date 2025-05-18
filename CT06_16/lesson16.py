@@ -46,7 +46,7 @@ def create():
     ball.penup()
     return ball
 
-def move_(ball, dx, dy):
+def move(ball, dx, dy):
     ball.setx = (ball.xcor() + dx)
     ball.sety = (ball.ycor() + dy)
 
