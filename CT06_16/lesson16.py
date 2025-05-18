@@ -15,5 +15,5 @@ t = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("green")
 
-drawShape(inp)
+drawShape(int(inp))
 window.mainloop()
