@@ -32,7 +32,7 @@
 import turtle
 
 def setp(length, hight):
-    screen = turtle.screen()
+    screen = turtle.Screen()
     screen.setup(width = length, height = hight)
     return screen
 
