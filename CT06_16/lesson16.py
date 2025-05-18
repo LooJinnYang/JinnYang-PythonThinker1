@@ -29,3 +29,4 @@ def setp(length, hight):
     screen.setup(width = length, height = hight)
     return screen
 
+length = 300
