@@ -4,6 +4,7 @@ num = 1
 while True:
     print(num)
     time.sleep(1)
+    num += 1
 
 # import turtle
 
