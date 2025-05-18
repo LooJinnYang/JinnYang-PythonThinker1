@@ -1,7 +1,8 @@
 # print("Hello from lesson 16")
 import time
+num = 0
 while True:
-    print()
+    print(num)
 
 # import turtle
 
