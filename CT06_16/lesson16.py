@@ -46,8 +46,9 @@ def create():
     ball.penup()
     return ball
 
-def move():
-    
+def move(ball, dx, dy):
+    ball.setx = (ball.xcor() + dx)
+    ball.sety = (ball.ycor() + dy)
 
 
 length = 300
@@ -55,4 +56,8 @@ hight = 500
 screen = setp(length, hight)
 ball = create()
 
+dx = 2
+dy = 2
+while True:
+    
 screen.mainloop()
