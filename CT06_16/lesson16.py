@@ -26,7 +26,7 @@ import turtle
 
 window = turtle.Screen()
 window.setup(width = 300, height = 500)
-t = turtle.Turtle()
+ball = turtle.Turtle()
 t.shape("turtle")
 t.fillcolor("blue")
 
