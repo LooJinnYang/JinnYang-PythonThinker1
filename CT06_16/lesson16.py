@@ -2,8 +2,8 @@
 
 import turtle
 
-def drawShape(ang):
-    360 / ang
+def drawShape(imes):
+    360 / imes
 
 window = turtle.Screen()
 window.setup(width = 600, height = 400)
