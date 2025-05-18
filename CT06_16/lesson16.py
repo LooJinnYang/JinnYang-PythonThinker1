@@ -59,5 +59,5 @@ ball = create()
 dx = 2
 dy = 2
 while True:
-    
+    move(ball, dx, dy)
 screen.mainloop()
