@@ -32,23 +32,23 @@ while True:
 # drawShape(times, length)
 # window.mainloop()
 
-import turtle
+# import turtle
 
-def setp(length, hight):
-    screen = turtle.Screen()
-    screen.setup(width = length, height = hight)
-    return screen
+# def setp(length, hight):
+#     screen = turtle.Screen()
+#     screen.setup(width = length, height = hight)
+#     return screen
 
-def create():
-    ball = turtle.Turtle()
-    ball.shape("circle")
-    ball.color("blue")
-    ball.penup()
-    return ball
+# def create():
+#     ball = turtle.Turtle()
+#     ball.shape("circle")
+#     ball.color("blue")
+#     ball.penup()
+#     return ball
 
-length = 300
-hight = 500
-screen = setp(length, hight)
-ball = create()
+# length = 300
+# hight = 500
+# screen = setp(length, hight)
+# ball = create()
 
-screen.mainloop()
+# screen.mainloop()
