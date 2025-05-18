@@ -2,7 +2,7 @@
 
 import turtle
 
-def drawShape(times):
+def drawShape(times, length):
     ang = 360 / times
     t.pendown()
     for i in range(times):
