@@ -7,7 +7,7 @@ while True:
     time.sleep(1)
     num += 1
     if num > 59:
-        print()
+        print("LOL")
 
 # import turtle
 
