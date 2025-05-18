@@ -43,6 +43,8 @@ def create():
     ball = turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
+    ball.penup()
+    return ball
 
 length = 300
 hight = 500
