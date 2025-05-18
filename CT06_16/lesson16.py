@@ -39,7 +39,8 @@ def setp(length, hight):
     screen.setup(width = length, height = hight)
     return screen
 
-
+def create():
+    ball = 
 
 length = 300
 hight = 500
