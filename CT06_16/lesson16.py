@@ -8,6 +8,7 @@ while True:
     num += 1
     if num > 59:
         print("LOL")
+        break
 
 # import turtle
 
