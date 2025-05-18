@@ -1,6 +1,10 @@
 # print("Hello from lesson 16")
 
 import turtle
+
+def drawShape(ang):
+    360 / ang
+
 window = turtle.Screen()
 window.setup(width = 600, height = 400)
 t = turtle.Turtle()
