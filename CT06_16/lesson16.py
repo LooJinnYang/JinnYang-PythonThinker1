@@ -25,10 +25,7 @@
 import turtle
 
 def setp(length, height):
-    ang = 360 / times
-    t.pendown()
-    for i in range(times):
-        t.forward(length)
-        t.right(ang)
-    t.penup()
+    screen = turtle.screen(
+        
+    )
 
