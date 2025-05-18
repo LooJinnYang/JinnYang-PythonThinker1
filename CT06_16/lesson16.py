@@ -1,14 +1,14 @@
 # print("Hello from lesson 16")
 
-# import time
-# num = 1
-# while True:
-#     print(num)
-#     time.sleep(1)
-#     num += 1
-#     if num > 59:
-#         print("LOL")
-#         break
+import time
+num = 1
+while True:
+    print(num)
+    time.sleep(1)
+    num += 1
+    if num > 59:
+        print("LOL")
+        break
 
 # import turtle
 
